@@ -1,6 +1,9 @@
 title: Retail & Payments
 description: Medios de pago que sí entiendes.
-baseurl: "" 
-url: "https://tu-usuario.github.io" # Cambia esto por tu URL final
+
+# ESTO ES LO MÁS IMPORTANTE:
+baseurl: "/retailandpayments"
+url: "https://marcmonf.github.io"
+
 markdown: kramdown
-theme: minima # Es un estándar, luego lo sobreescribimos con tu diseño
+# Borramos la línea de 'theme: minima' para que no interfiera con tu CSS propio
