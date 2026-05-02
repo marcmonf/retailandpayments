@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="blog-section" style="max-width: 900px; margin: 0 auto;">
+  <header style="margin-bottom: 50px;">
+    <div class="art-meta">
+      <span class="art-cat">{{ page.categories | join: ", " }}</span>
+      <span class="art-date">{{ page.date | date: "%d/%m/%Y" }}</span>
+    </div>
+    <h1 class="section-title" style="margin-top: 20px;">{{ page.title }}</h1>
+  </header>
+
+  <div class="art-body" style="color: var(--text-muted); font-size: 18px; line-height: 1.8;">
+    {{ content }}
+  </div>
+
+  <footer style="margin-top: 80px; padding-top: 40px; border-top: 1px solid var(--border);">
+    <div class="section-label">¿Te ha gustado?</div>
+    <p style="margin-bottom: 20px;">Si quieres apoyar este proyecto, puedes invitarme a un café.</p>
+    <a href="https://www.buymeacoffee.com/tu-usuario" target="_blank" class="btn-ghost">Buy me a coffee ☕</a>
+  </footer>
+</article>
