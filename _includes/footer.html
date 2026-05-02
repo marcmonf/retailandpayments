@@ -8,12 +8,8 @@
   </div>
 </footer>
 
+<!-- El punto que sigue al ratón -->
 <div class="cursor" id="cursor"></div>
 
-<script>
-  // Script para el cursor que venía en el diseño original
-  const el = document.getElementById('cursor');
-  document.addEventListener('mousemove', e => {
-    if(el){ el.style.left = e.clientX + 'px'; el.style.top = e.clientY + 'px'; }
-  });
-</script>
+<!-- Llama a tu archivo de Javascript -->
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
