@@ -1,16 +1,25 @@
 <nav class="nav">
-  <div class="nav-logo">
+  <div class="nav-logo" onclick="window.location='{{ '/' | relative_url }}'">
     <div class="nav-logo-icon">R</div>
     <span>Retail & Payments</span>
   </div>
   <div class="nav-center">
-    <a href="/" class="nav-link">Inicio</a>
-    <a href="/categoria/payments-fintech" class="nav-link">Fintech</a>
-    <a href="/categoria/euro-digital" class="nav-link">Euro Digital</a>
-    <a href="/rp-news" class="nav-link">R&P News</a>
-    <a href="/consultoria" class="nav-link">Consultoría</a>
+    <a href="{{ '/' | relative_url }}" class="nav-link">Inicio</a>
+    <a href="{{ '/categoria/payments-fintech/' | relative_url }}" class="nav-link">Fintech</a>
+    <a href="{{ '/categoria/euro-digital/' | relative_url }}" class="nav-link">Euro Digital</a>
+    <a href="{{ '/rp-news/' | relative_url }}" class="nav-link">R&P News</a>
+    <a href="{{ '/consultoria/' | relative_url }}" class="nav-link">Consultoría</a>
   </div>
   <div class="nav-right">
     <button class="btn-search" id="btn-search">⌕ Buscar</button>
   </div>
 </nav>
+
+<!-- BLOQUE NECESARIO PARA QUE EL BUSCADOR FUNCIONE -->
+<div class="search-overlay" id="search-overlay">
+  <button class="search-close" id="search-close">✕ Cerrar</button>
+  <div class="search-wrap">
+    <span class="search-lbl">Buscar en R&P</span>
+    <input class="search-input" type="text" placeholder="Escribe aquí..." id="search-input">
+  </div>
+</div>
