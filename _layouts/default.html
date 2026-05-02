@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — Retail & Payments</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+  
+  <style>
+    /* AQUÍ VA TODO EL CSS QUE TE DIO CLAUDE */
+    /* Lo pego resumido para no saturarte, pero usa el bloque completo */
+    :root {
+      --bg:#0e0900; --accent:#d4a853; --text:#e8e4dc;
+      --font-head:'Bebas Neue',sans-serif;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; }
+    /* ... (resto del CSS del archivo de Claude) ... */
+  </style>
+</head>
+<body>
+  <div class="grid-overlay"></div>
+  
+  {% include header.html %}
+
+  <main style="padding-top: 80px;">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+</body>
+</html>
