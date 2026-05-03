@@ -326,3 +326,76 @@ body{background:var(--bg);color:var(--text);font-family:var(--font-body);font-si
   .footer{flex-direction:column;gap:36px;}
   .hero-hud-tl,.hero-hud-tr,.hero-hud-br{display:none;}
 }
+/* --- ESTILOS DE CONTENIDO DE ARTÍCULO --- */
+
+/* Contenedor principal del texto */
+.art-body {
+  text-align: justify; /* Justifica el texto como pediste */
+  hyphens: auto;
+}
+
+/* Espaciado entre párrafos */
+.art-body p {
+  margin-bottom: 1.8rem; /* Espacio generoso entre párrafos */
+  color: var(--text-muted);
+  line-height: 1.8;
+}
+
+/* Espaciado y estilo de Títulos dentro del artículo */
+.art-body h1, .art-body h2, .art-body h3, .art-body h4 {
+  color: var(--text);
+  font-family: var(--font-head);
+  text-transform: uppercase;
+  margin-top: 3rem;      /* Espacio respecto al párrafo anterior */
+  margin-bottom: 1.5rem; /* Espacio respecto al texto siguiente */
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+}
+
+.art-body h2 { font-size: 2rem; border-left: 3px solid var(--accent); padding-left: 15px; }
+.art-body h3 { font-size: 1.5rem; color: var(--accent); }
+
+/* Espaciado para Imágenes y Figuras */
+.art-body img, 
+.art-body figure {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 3rem auto; /* Separa la imagen del texto arriba y abajo, y la centra */
+  border: 1px solid var(--border);
+  padding: 5px;
+  background: var(--bg2);
+}
+
+/* Estilo para los vídeos insertados (YouTube) */
+.art-body iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 3rem 0;
+  border: 1px solid var(--border);
+}
+
+/* Listas (por si tienes puntos clave) */
+.art-body ul, .art-body ol {
+  margin-bottom: 1.8rem;
+  padding-left: 1.5rem;
+}
+
+.art-body li {
+  margin-bottom: 0.8rem;
+  color: var(--text-muted);
+}
+
+/* Enlaces dentro del texto */
+.art-body a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-accent);
+  transition: all 0.3s;
+}
+
+.art-body a:hover {
+  background: var(--accent-dim);
+  color: var(--text);
+}
+
