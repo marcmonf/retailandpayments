@@ -94,6 +94,16 @@ body{background:var(--bg);color:var(--text);font-family:var(--font-body);font-si
         text-align: left !important;
         hyphens: none !important;
     }
+  /* Arreglo para que el botón largo quepa en el móvil */
+    .btn-primary, .btn-dark {
+        width: 100% !important;
+        padding: 16px 10px !important; /* Menos espacio a los lados */
+        font-size: 12px !important;    /* Texto un pelín más pequeño */
+        display: block !important;     /* Ocupa todo el ancho disponible */
+        text-align: center !important;
+        white-space: normal !important; /* Si el email es muy largo, baja a la siguiente línea */
+        box-sizing: border-box !important;
+    }
 }
 
 /* NAV */
