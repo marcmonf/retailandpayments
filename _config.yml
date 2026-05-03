@@ -1,9 +1,12 @@
-title: Retail & Payments
-description: Medios de pago que sí entiendes.
-
-# ESTO ES LO MÁS IMPORTANTE:
+title: "Retail & Payments"
+description: "Medios de pago que sí entiendes."
 baseurl: "/retailandpayments"
 url: "https://marcmonf.github.io"
 
+# Esto obliga a GitHub a usar TUS carpetas y no las suyas
+theme: []
+remote_theme: []
+
+# Configuraciones de lectura
 markdown: kramdown
-# Borramos la línea de 'theme: minima' para que no interfiera con tu CSS propio
+incremental: false
