@@ -3,6 +3,7 @@
     <div class="nav-logo-icon">R</div>
     <span>Retail & Payments</span>
   </div>
+  
   <div class="nav-center">
     <a href="{{ '/' | relative_url }}" class="nav-link">Inicio</a>
     <a href="{{ '/categoria/payments-fintech/' | relative_url }}" class="nav-link">Payments & Fintech</a>
@@ -13,15 +14,37 @@
     <a href="{{ '/consultoria/' | relative_url }}" class="nav-link">Consultoría</a>
     <a href="{{ '/sobre-mi/' | relative_url }}" class="nav-link">Sobre mí</a>
   </div>
+
   <div class="nav-right">
     <button class="btn-search" id="btn-search">⌕ Buscar</button>
+    <!-- Nuevo botón de menú para móvil -->
+    <button class="btn-menu" id="btn-menu">☰ Menú</button>
   </div>
 </nav>
 
+<!-- Overlay de búsqueda (Ya lo tenías) -->
 <div class="search-overlay" id="search-overlay">
   <button class="search-close" id="search-close">✕ Cerrar</button>
   <div class="search-wrap">
     <span class="search-lbl">Buscar en R&P</span>
     <input class="search-input" type="text" placeholder="Escribe aquí..." id="search-input">
+  </div>
+</div>
+
+<!-- NUEVO: Overlay de menú para móvil -->
+<div class="menu-overlay" id="menu-overlay">
+  <button class="menu-close" id="menu-close">✕ Cerrar</button>
+  <div class="menu-wrap">
+    <span class="menu-lbl">Navegación</span>
+    <div class="menu-links">
+      <a href="{{ '/' | relative_url }}">Inicio</a>
+      <a href="{{ '/categoria/payments-fintech/' | relative_url }}">Payments & Fintech</a>
+      <a href="{{ '/categoria/euro-digital/' | relative_url }}">Euro Digital</a>
+      <a href="{{ '/categoria/estrategia-retail/' | relative_url }}">Estrategia Retail</a>
+      <a href="{{ '/categoria/entrevistas/' | relative_url }}">Entrevistas</a>
+      <a href="{{ '/categoria/rp-news/' | relative_url }}">R&P News</a>
+      <a href="{{ '/consultoria/' | relative_url }}">Consultoría</a>
+      <a href="{{ '/sobre-mi/' | relative_url }}">Sobre mí</a>
+    </div>
   </div>
 </div>
