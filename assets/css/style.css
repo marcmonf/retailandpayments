@@ -28,6 +28,74 @@ body{background:var(--bg);color:var(--text);font-family:var(--font-body);font-si
   background-image:linear-gradient(rgba(212,168,83,.02) 1px,transparent 1px),linear-gradient(90deg,rgba(212,168,83,.02) 1px,transparent 1px);
   background-size:80px 80px;}
 
+/* ... (Mantén todo tu CSS inicial igual hasta llegar a la parte del Nav) ... */
+
+/* ESTILOS NUEVOS PARA EL BOTÓN DE MENÚ */
+.btn-menu {
+    display: none; /* Oculto en PC */
+    background: none;
+    border: 1px solid var(--border-accent);
+    color: var(--accent);
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: .1em;
+    padding: 6px 12px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+/* OVERLAY DEL MENÚ MÓVIL */
+.menu-overlay {
+    position: fixed; inset: 0; z-index: 200; background: rgba(14,9,0,.98);
+    backdrop-filter: blur(20px); display: flex; flex-direction: column;
+    align-items: center; justify-content: center; opacity: 0;
+    pointer-events: none; transition: opacity .3s ease;
+}
+.menu-overlay.open { opacity: 1; pointer-events: all; }
+.menu-wrap { width: 100%; max-width: 600px; padding: 0 40px; text-align: center; }
+.menu-lbl { font-family: var(--font-mono); font-size: 9px; letter-spacing: .3em; text-transform: uppercase; color: var(--accent); margin-bottom: 30px; display: block; }
+.menu-links { display: flex; flex-direction: column; gap: 20px; }
+.menu-links a { font-family: var(--font-head); font-size: 32px; color: var(--text); text-decoration: none; text-transform: uppercase; transition: color .2s; }
+.menu-links a:hover { color: var(--accent); }
+.menu-close { position: absolute; top: 28px; right: 40px; background: none; border: 1px solid var(--border); color: var(--text-muted); font-family: var(--font-mono); font-size: 10px; padding: 8px 14px; cursor: pointer; text-transform: uppercase; }
+
+/* --- SECCIÓN MOBILE (Aquí está el arreglo de tus columnas) --- */
+@media(max-width:900px){
+    .nav-center { display: none; }
+    .btn-menu { display: block; } /* Mostramos el botón de menú */
+    
+    .hero { padding: 80px 24px 60px; }
+    .cat-section, .featured-section, .blog-section, .news-section, .consult-section, .about-section { padding: 60px 24px; }
+    
+    /* Arreglo para "Sobre mí" y "Consultoría" */
+    /* Forzamos que las columnas se apilen y ocupen el 100% */
+    .about-section, 
+    [style*="display: grid; grid-template-columns: 300px 1fr"],
+    [style*="display: grid; grid-template-columns: 1fr 1fr"] {
+        display: block !important; /* Rompemos el grid */
+    }
+
+    aside, .art-body {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 !important;
+    }
+
+    aside { margin-bottom: 40px !important; }
+    
+    /* La foto ahora se adapta al ancho del móvil */
+    aside div[style*="width: 100%"] {
+        width: 100% !important;
+        aspect-ratio: 1/1 !important;
+    }
+
+    /* Quitamos el justificado agresivo en móvil para evitar guiones raros */
+    .art-body {
+        text-align: left !important;
+        hyphens: none !important;
+    }
+}
+
 /* NAV */
 .nav{position:fixed;top:0;left:0;right:0;z-index:100;padding:0 40px;height:60px;
   display:flex;align-items:center;justify-content:space-between;
