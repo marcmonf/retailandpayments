@@ -399,3 +399,32 @@ body{background:var(--bg);color:var(--text);font-family:var(--font-body);font-si
   color: var(--text);
 }
 
+/* --- FIX CRÍTICO PARA BOTONES --- */
+
+/* Forzamos que cualquier botón ignore el estilo de enlace de artículo */
+.art-body a.btn-primary, 
+.art-body a.btn-dark, 
+.art-body a.btn-ghost {
+  border-bottom: none !important; /* Quita la línea de subrayado */
+  display: inline-block;
+}
+
+/* El botón amarillo DEBE tener texto negro siempre */
+.art-body a.btn-primary {
+  color: var(--bg) !important; /* Negro fondo sobre oro */
+}
+
+.art-body a.btn-primary:hover {
+  color: var(--bg) !important;
+  background: var(--text); /* Cambia a beige al pasar el ratón */
+}
+
+/* El botón negro DEBE tener texto dorado */
+.art-body a.btn-dark {
+  color: var(--accent) !important;
+}
+
+.art-body a.btn-dark:hover {
+  background: var(--bg3) !important;
+  color: var(--text) !important;
+}
