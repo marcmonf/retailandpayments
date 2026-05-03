@@ -3,8 +3,8 @@ description: "Medios de pago que sí entiendes."
 baseurl: "/retailandpayments"
 url: "https://marcmonf.github.io"
 
-# Esto le dice a GitHub: "No uses temas automáticos, usa mi diseño"
-theme: ""
-
+# Configuraciones de motor
 markdown: kramdown
 highlighter: rouge
+incremental: false
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
