@@ -1,0 +1,9 @@
+Sitemap: https://retailandpayments.com/sitemap.xml
+
+User-agent: *
+Allow: /
+
+# Evitar que se indexen archivos de sistema
+Disallow: /vendor/
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
