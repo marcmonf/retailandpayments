@@ -1,8 +1,15 @@
 <footer class="footer">
   <div>
     <div class="footer-logo">Retail &<br/>Payments</div>
-    <div class="footer-sub">© 2026 · Marcos Montes</div>
+    <div class="footer-sub">© 2026 · Retail & Payments</div> <!-- He cambiado Marcos Montes por R&P para mantener tu privacidad -->
   </div>
+  
+  <div style="display: flex; flex-direction: column; gap: 10px; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px;">
+    <a href="{{ '/legal/aviso-legal/' | relative_url }}" style="text-decoration: none; color: var(--text-dim);">aviso legal</a>
+    <a href="{{ '/legal/privacidad/' | relative_url }}" style="text-decoration: none; color: var(--text-dim);">política de privacidad</a>
+    <a href="{{ '/legal/cookies/' | relative_url }}" style="text-decoration: none; color: var(--text-dim);">política de cookies</a>
+  </div>
+
   <div class="footer-copy">
     retailandpayments.com<br/>Medios de pago que sí entiendes
   </div>
