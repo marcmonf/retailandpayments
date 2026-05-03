@@ -3,10 +3,8 @@ description: "Medios de pago que sí entiendes."
 baseurl: "/retailandpayments"
 url: "https://marcmonf.github.io"
 
-# Esto obliga a GitHub a usar TUS carpetas y no las suyas
-theme: []
-remote_theme: []
-
-# Configuraciones de lectura
+# Configuraciones de motor
 markdown: kramdown
+highlighter: rouge
 incremental: false
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
