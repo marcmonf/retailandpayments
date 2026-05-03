@@ -28,45 +28,48 @@ layout: default
   </div>
 
   <div class="featured-grid">
-    {% for post in site.posts limit:3 %}
-      {% if forloop.first %}
-        <!-- EL ARTÍCULO MÁS NUEVO (Card Grande) -->
-        <div class="art-card-featured" onclick="window.location='{{ post.url | relative_url }}'">
-          <div class="art-img art-img-a"><div class="img-grad"></div></div>
-          <div class="art-body">
-            <div class="art-meta">
-              <span class="art-cat">{{ post.categories | first }}</span>
-              <span class="art-date">{{ post.date | date: "%d %b %Y" }}</span>
-            </div>
-            <h3 class="art-title-lg">{{ post.title }}</h3>
-            <p class="art-excerpt">{{ post.description | default: post.excerpt | strip_html | truncatewords: 25 }}</p>
-            <div class="art-footer">
-              <span class="art-read-time">↗ Abrir artículo</span>
-              <span class="art-read-link">Leer en R&P →</span>
-            </div>
-          </div>
+  {% for post in site.posts limit:3 %}
+    {% if forloop.first %}
+      <!-- ARTÍCULO MÁS NUEVO (Imagen Grande) -->
+      <div class="art-card-featured" onclick="window.location='{{ post.url | relative_url }}'">
+        <div class="art-img">
+          {% if post.content contains '<img' %}
+            {% assign src = post.content | split: 'src="' | last | split: '"' | first %}
+            <img src="{{ src }}" style="width: 100%; height: 100%; object-fit: cover;">
+          {% else %}
+            <div class="art-img-a" style="width: 100%; height: 100%;"></div>
+          {% endif %}
+          <div class="img-grad"></div>
         </div>
-        <!-- Abrimos el contenedor lateral para los artículos 2 y 3 -->
-        <div class="featured-sidebar">
-      {% else %}
-        <!-- ARTÍCULOS 2 Y 3 (Cards Pequeñas) -->
-        <div class="art-card-sm" onclick="window.location='{{ post.url | relative_url }}'">
+        <div class="art-body">
           <div class="art-meta">
             <span class="art-cat">{{ post.categories | first }}</span>
             <span class="art-date">{{ post.date | date: "%d %b %Y" }}</span>
           </div>
-          <h3 class="art-title-sm">{{ post.title }}</h3>
-          <p class="art-excerpt" style="font-size:13px">{{ post.description | default: post.excerpt | strip_html | truncatewords: 15 }}</p>
+          <h3 class="art-title-lg">{{ post.title }}</h3>
+          <p class="art-excerpt">{{ post.content | strip_html | truncatewords: 25 }}</p>
           <div class="art-footer">
-            <span class="art-read-time">↗ Abrir</span>
-            <span class="art-read-link">Leer →</span>
+            <span class="art-read-link">Leer en R&P →</span>
           </div>
         </div>
-      {% endif %}
-      
-      {% if forloop.last %}
-        </div> <!-- Cerramos el contenedor lateral -->
-      {% endif %}
-    {% endfor %}
-  </div>
+      </div>
+      <!-- Abrimos el contenedor lateral para los siguientes dos -->
+      <div class="featured-sidebar">
+    {% else %}
+      <!-- ARTÍCULOS 2 Y 3 (Miniaturas laterales) -->
+      <div class="art-card-sm" onclick="window.location='{{ post.url | relative_url }}'">
+        <div class="art-meta">
+          <span class="art-cat">{{ post.categories | first }}</span>
+          <span class="art-date">{{ post.date | date: "%d %b %Y" }}</span>
+        </div>
+        <h3 class="art-title-sm">{{ post.title }}</h3>
+        <p class="art-excerpt" style="font-size:13px">{{ post.content | strip_html | truncatewords: 15 }}</p>
+      </div>
+    {% endif %}
+
+    {% if forloop.last %}
+      </div> <!-- Cerramos el featured-sidebar aquí -->
+    {% endif %}
+  {% endfor %}
+</div>
 </section>
