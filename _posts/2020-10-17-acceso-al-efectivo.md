@@ -40,7 +40,7 @@ permalink: /acceso-al-efectivo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/atm-1524870.jpg" alt="" class="wp-image-736" width="439" height="292"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/atm-1524870.jpg" alt="" class="wp-image-736" width="439" height="292"/></figure>
 
 
 
@@ -84,7 +84,7 @@ permalink: /acceso-al-efectivo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/20201011_210524635_iOS.jpg" alt="" class="wp-image-748" width="421" height="316"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/20201011_210524635_iOS.jpg" alt="" class="wp-image-748" width="421" height="316"/></figure>
 
 
 
@@ -96,7 +96,7 @@ permalink: /acceso-al-efectivo/
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img src="/retailandpayments/assets/img/4D65742D-9F8C-4C8E-B729-592AC8687641.jpeg" alt="" class="wp-image-766"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/assets/img/4D65742D-9F8C-4C8E-B729-592AC8687641.jpeg" alt="" class="wp-image-766"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /acceso-al-efectivo/
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img src="/retailandpayments/assets/img/926DE94A-BA54-4718-94C2-246DF458F2A9.png" alt="" class="wp-image-765"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/assets/img/926DE94A-BA54-4718-94C2-246DF458F2A9.png" alt="" class="wp-image-765"/></figure>
 
 
 

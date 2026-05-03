@@ -8,7 +8,7 @@ permalink: /retail-and-payments/
 ---
 
 
-<figure class="wp-block-image aligncenter size-large is-resized is-style-default"><img src="/retailandpayments/assets/img/money-256319_1280.webp" alt="" class="wp-image-1365" width="523" height="347"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized is-style-default"><img src="/assets/img/money-256319_1280.webp" alt="" class="wp-image-1365" width="523" height="347"/></figure>
 
 
 

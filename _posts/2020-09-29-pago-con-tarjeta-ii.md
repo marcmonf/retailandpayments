@@ -24,7 +24,7 @@ permalink: /pago-con-tarjeta-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Fernando_Arrabal_El_Milenarismo-1.gif" alt="" class="wp-image-670" width="341" height="195"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Fernando_Arrabal_El_Milenarismo-1.gif" alt="" class="wp-image-670" width="341" height="195"/></figure>
 
 
 
@@ -32,7 +32,7 @@ permalink: /pago-con-tarjeta-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ecommerce-2140604_1280.jpg" alt="" class="wp-image-679" width="332" height="144"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ecommerce-2140604_1280.jpg" alt="" class="wp-image-679" width="332" height="144"/></figure>
 
 
 
@@ -44,7 +44,7 @@ permalink: /pago-con-tarjeta-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/artificial-intelligence-2167835.jpg" alt="" class="wp-image-678" width="329" height="219"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/artificial-intelligence-2167835.jpg" alt="" class="wp-image-678" width="329" height="219"/></figure>
 
 
 
@@ -92,7 +92,7 @@ permalink: /pago-con-tarjeta-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/american-express-89024.jpg" alt="" class="wp-image-683" width="377" height="236"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/american-express-89024.jpg" alt="" class="wp-image-683" width="377" height="236"/></figure>
 
 
 
@@ -108,7 +108,7 @@ permalink: /pago-con-tarjeta-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/wallet-908569.jpg" alt="" class="wp-image-689" width="384" height="256"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/wallet-908569.jpg" alt="" class="wp-image-689" width="384" height="256"/></figure>
 
 
 

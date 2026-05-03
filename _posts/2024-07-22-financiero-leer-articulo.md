@@ -60,7 +60,7 @@ permalink: /financiero-leer-articulo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/electronic-payments-2109610_1280.jpg" alt="Si eres financiero, tienes que leer este artículo. " class="wp-image-1818" style="width:589px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/electronic-payments-2109610_1280.jpg" alt="Si eres financiero, tienes que leer este artículo. " class="wp-image-1818" style="width:589px;height:auto"/></figure>
 
 
 
@@ -180,7 +180,7 @@ permalink: /financiero-leer-articulo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/coins-1726618_1280.jpg" alt="Costes financieros. Si eres financiero tienes que leer este artículo" class="wp-image-1820" style="width:567px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/coins-1726618_1280.jpg" alt="Costes financieros. Si eres financiero tienes que leer este artículo" class="wp-image-1820" style="width:567px;height:auto"/></figure>
 
 
 
@@ -246,7 +246,7 @@ permalink: /financiero-leer-articulo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/alley-4209928_1280.jpg" alt="Esquemas locales. Si eres financiero, tienes que leer este artículo" class="wp-image-1822" style="width:564px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/alley-4209928_1280.jpg" alt="Esquemas locales. Si eres financiero, tienes que leer este artículo" class="wp-image-1822" style="width:564px;height:auto"/></figure>
 
 
 
@@ -294,7 +294,7 @@ permalink: /financiero-leer-articulo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/office-1574717_1280.jpg" alt="El papel de los financieros en la negociación de los costes de procesamiento de pagos" class="wp-image-1824" style="width:567px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/office-1574717_1280.jpg" alt="El papel de los financieros en la negociación de los costes de procesamiento de pagos" class="wp-image-1824" style="width:567px;height:auto"/></figure>
 
 
 
@@ -334,7 +334,7 @@ permalink: /financiero-leer-articulo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/office-4628589_1280.jpg" alt="Análisis de datos por parte del departamento financiero" class="wp-image-1826" style="width:600px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/office-4628589_1280.jpg" alt="Análisis de datos por parte del departamento financiero" class="wp-image-1826" style="width:600px;height:auto"/></figure>
 
 
 
@@ -398,7 +398,7 @@ permalink: /financiero-leer-articulo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/europe-3483539_1280.jpg" alt="Si eres financiero, tienes que leer este artículo" class="wp-image-1817" style="width:566px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/europe-3483539_1280.jpg" alt="Si eres financiero, tienes que leer este artículo" class="wp-image-1817" style="width:566px;height:auto"/></figure>
 
 
 
@@ -452,7 +452,7 @@ permalink: /financiero-leer-articulo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/iocenters-2673316_1280.jpg" alt="La negociación con los adquirentes. Si eres financiero tienes que leer este artículo. " class="wp-image-1827" style="width:602px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/iocenters-2673316_1280.jpg" alt="La negociación con los adquirentes. Si eres financiero tienes que leer este artículo. " class="wp-image-1827" style="width:602px;height:auto"/></figure>
 
 
 

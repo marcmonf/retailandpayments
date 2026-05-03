@@ -40,7 +40,7 @@ permalink: /rp-news-25-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/metamask-pagos-banco.png" alt="" class="wp-image-2140" style="width:259px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/metamask-pagos-banco.png" alt="" class="wp-image-2140" style="width:259px;height:auto"/></figure>
 
 
 
@@ -72,7 +72,7 @@ permalink: /rp-news-25-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/stripe-no-reparte-dividendos.png" alt="" class="wp-image-2142" style="width:374px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/stripe-no-reparte-dividendos.png" alt="" class="wp-image-2142" style="width:374px;height:auto"/></figure>
 
 
 
@@ -128,7 +128,7 @@ permalink: /rp-news-25-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/publicidad-digital-rapido-pagos-payments.png" alt="" class="wp-image-2145" style="width:405px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/publicidad-digital-rapido-pagos-payments.png" alt="" class="wp-image-2145" style="width:405px;height:auto"/></figure>
 
 
 
@@ -252,7 +252,7 @@ permalink: /rp-news-25-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/AI-not-used-retail-payments.png" alt="" class="wp-image-2143" style="width:358px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/AI-not-used-retail-payments.png" alt="" class="wp-image-2143" style="width:358px;height:auto"/></figure>
 
 
 

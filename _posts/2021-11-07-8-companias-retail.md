@@ -48,7 +48,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/cape-town-3749167.jpg" alt="" class="wp-image-946" width="412" height="275"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/cape-town-3749167.jpg" alt="" class="wp-image-946" width="412" height="275"/></figure>
 
 
 
@@ -92,7 +92,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/wlmrt_logo.png" alt="" class="wp-image-948" width="494" height="228"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/wlmrt_logo.png" alt="" class="wp-image-948" width="494" height="228"/></figure>
 
 
 
@@ -149,7 +149,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Amazon_logo.png" alt="" class="wp-image-954" width="339" height="101"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Amazon_logo.png" alt="" class="wp-image-954" width="339" height="101"/></figure>
 
 
 
@@ -197,7 +197,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/FBA78098-6A85-404C-8045-4A55E0A5ECA7.jpeg" alt="" class="wp-image-956" width="464" height="348"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/FBA78098-6A85-404C-8045-4A55E0A5ECA7.jpeg" alt="" class="wp-image-956" width="464" height="348"/></figure>
 
 
 
@@ -217,7 +217,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/logo_costco_wholesale.png" alt="" class="wp-image-978" width="369" height="208"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/logo_costco_wholesale.png" alt="" class="wp-image-978" width="369" height="208"/></figure>
 
 
 
@@ -281,7 +281,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Schwarz-Gruppe_Lidl_Kaufland_logo.png" alt="" class="wp-image-962" width="298" height="226"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Schwarz-Gruppe_Lidl_Kaufland_logo.png" alt="" class="wp-image-962" width="298" height="226"/></figure>
 
 
 
@@ -314,7 +314,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/ALDI_logo.png" alt="" class="wp-image-968" width="252" height="265"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/ALDI_logo.png" alt="" class="wp-image-968" width="252" height="265"/></figure>
 
 
 
@@ -359,7 +359,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Alibaba_Logo.png" alt="" class="wp-image-973" width="429" height="241"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Alibaba_Logo.png" alt="" class="wp-image-973" width="429" height="241"/></figure>
 
 
 
@@ -391,7 +391,7 @@ permalink: /8-companias-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Alibaba_ecosystem.png" alt="" class="wp-image-974" width="651" height="400"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Alibaba_ecosystem.png" alt="" class="wp-image-974" width="651" height="400"/></figure>
 
 
 
@@ -425,7 +425,7 @@ https://www.youtube.com/watch?v=t-W56GU1Eyo
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Ahold_Delhaize_logo.png" alt="" class="wp-image-982" width="406" height="132"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Ahold_Delhaize_logo.png" alt="" class="wp-image-982" width="406" height="132"/></figure>
 
 
 
@@ -485,7 +485,7 @@ https://www.youtube.com/watch?v=t-W56GU1Eyo
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/carrefour_logo.png" alt="" class="wp-image-985" width="267" height="267"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/carrefour_logo.png" alt="" class="wp-image-985" width="267" height="267"/></figure>
 
 
 

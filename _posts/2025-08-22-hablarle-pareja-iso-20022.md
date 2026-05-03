@@ -60,7 +60,7 @@ permalink: /hablarle-pareja-iso-20022/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Change-my-mind-Crowder-Meme-edited.png" alt="Tengo que hablarle a mi pareja de la ISO 20022" class="wp-image-2101" style="width:636px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Change-my-mind-Crowder-Meme-edited.png" alt="Tengo que hablarle a mi pareja de la ISO 20022" class="wp-image-2101" style="width:636px;height:auto"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /hablarle-pareja-iso-20022/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/meme-5.jpg" alt="LA ISO 20022 te generará un problema con tu actual infraestructura si no te preparas" class="wp-image-2119" style="width:520px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/meme-5.jpg" alt="LA ISO 20022 te generará un problema con tu actual infraestructura si no te preparas" class="wp-image-2119" style="width:520px;height:auto"/></figure>
 
 
 
@@ -190,7 +190,7 @@ https://youtu.be/GZLbwO_Y1_Q?si=86iz6vVKCGNXNWLQ
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/04e3d46278badf22d5d0a1209fae8f6d.jpg" alt="" class="wp-image-2111" style="width:532px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/04e3d46278badf22d5d0a1209fae8f6d.jpg" alt="" class="wp-image-2111" style="width:532px;height:auto"/></figure>
 
 
 
@@ -222,7 +222,7 @@ https://youtu.be/GZLbwO_Y1_Q?si=86iz6vVKCGNXNWLQ
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Confused-Seth-Meyers-GIF-by-Late-Night-with-Seth-Meyers.gif" alt="" class="wp-image-2116" style="width:378px;height:auto"/><figcaption class="wp-element-caption">Tus dineros aterrizando en Kazajistán</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Confused-Seth-Meyers-GIF-by-Late-Night-with-Seth-Meyers.gif" alt="" class="wp-image-2116" style="width:378px;height:auto"/><figcaption class="wp-element-caption">Tus dineros aterrizando en Kazajistán</figcaption></figure>
 
 
 

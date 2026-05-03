@@ -116,7 +116,7 @@ permalink: /el-euro-digital-iv/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ai-generated-8488761_1280.jpg" alt="euro digital" class="wp-image-2533" style="width:605px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ai-generated-8488761_1280.jpg" alt="euro digital" class="wp-image-2533" style="width:605px;height:auto"/></figure>
 
 
 
@@ -200,7 +200,7 @@ permalink: /el-euro-digital-iv/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/coin-9165490_1280.jpg" alt="euro digital en la wallet" class="wp-image-2534" style="width:564px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/coin-9165490_1280.jpg" alt="euro digital en la wallet" class="wp-image-2534" style="width:564px;height:auto"/></figure>
 
 
 
@@ -310,7 +310,7 @@ permalink: /el-euro-digital-iv/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/euro-8498057_1280.png" alt="te vigilan con el euro digital" class="wp-image-2535" style="width:520px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/euro-8498057_1280.png" alt="te vigilan con el euro digital" class="wp-image-2535" style="width:520px;height:auto"/></figure>
 
 
 
@@ -382,7 +382,7 @@ permalink: /el-euro-digital-iv/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/euros-5632480_1280.jpg" alt="euros programables" class="wp-image-2536" style="width:563px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/euros-5632480_1280.jpg" alt="euros programables" class="wp-image-2536" style="width:563px;height:auto"/></figure>
 
 
 
@@ -444,7 +444,7 @@ permalink: /el-euro-digital-iv/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/motive-2336374_1280.jpg" alt="te vigilan cada movimiento euro digital" class="wp-image-2537" style="width:520px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/motive-2336374_1280.jpg" alt="te vigilan cada movimiento euro digital" class="wp-image-2537" style="width:520px;height:auto"/></figure>
 
 
 

@@ -84,7 +84,7 @@ permalink: /alma-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ryanmcguire-resting-542555_1280.jpg" alt="Sin alma como en los medios de pago, así te quedas tras un burnout" class="wp-image-2650" style="width:554px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ryanmcguire-resting-542555_1280.jpg" alt="Sin alma como en los medios de pago, así te quedas tras un burnout" class="wp-image-2650" style="width:554px;height:auto"/></figure>
 
 
 
@@ -160,7 +160,7 @@ permalink: /alma-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/422737-escalator-474197_1280.jpg" alt="subir o bajar para encontrar el alma de los medios de pago" class="wp-image-2651" style="width:606px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/422737-escalator-474197_1280.jpg" alt="subir o bajar para encontrar el alma de los medios de pago" class="wp-image-2651" style="width:606px;height:auto"/></figure>
 
 
 
@@ -216,7 +216,7 @@ permalink: /alma-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/wal_172619-cashbox-7274369_1280.jpg" alt="no hay dolor, es solo el acto de pagar" class="wp-image-2652" style="aspect-ratio:1.4905592369756286;width:561px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/wal_172619-cashbox-7274369_1280.jpg" alt="no hay dolor, es solo el acto de pagar" class="wp-image-2652" style="aspect-ratio:1.4905592369756286;width:561px;height:auto"/></figure>
 
 
 
@@ -268,7 +268,7 @@ permalink: /alma-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/stevepb-stock-market-collapse-913107_1280.jpg" alt="Se nos acaba el papel" class="wp-image-2653" style="width:527px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/stevepb-stock-market-collapse-913107_1280.jpg" alt="Se nos acaba el papel" class="wp-image-2653" style="width:527px;height:auto"/></figure>
 
 
 

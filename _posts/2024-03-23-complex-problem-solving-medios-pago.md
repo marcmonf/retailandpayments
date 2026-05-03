@@ -84,7 +84,7 @@ permalink: /complex-problem-solving-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/dr-house-572353_1280.jpg" alt="El Doctor House como ejemplo de un CPSer" class="wp-image-1762" style="width:331px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/dr-house-572353_1280.jpg" alt="El Doctor House como ejemplo de un CPSer" class="wp-image-1762" style="width:331px;height:auto"/></figure>
 
 
 
@@ -136,7 +136,7 @@ permalink: /complex-problem-solving-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/unordered-3192273_1280.png" alt="Decisiones complejas desde el punto de vista del CEO. CPS o Complex Problem Solving medios de pago" class="wp-image-1761" style="width:379px;height:auto"/><figcaption class="wp-element-caption">Cómo se siente un CEO del mundo de los medios de pago</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/unordered-3192273_1280.png" alt="Decisiones complejas desde el punto de vista del CEO. CPS o Complex Problem Solving medios de pago" class="wp-image-1761" style="width:379px;height:auto"/><figcaption class="wp-element-caption">Cómo se siente un CEO del mundo de los medios de pago</figcaption></figure>
 
 
 
@@ -160,7 +160,7 @@ permalink: /complex-problem-solving-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/abstract-3728498_1280.jpg" alt="Resolución de Problemas Complejos o CPS en el mundo de los medios de pago" class="wp-image-1776" style="width:591px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/abstract-3728498_1280.jpg" alt="Resolución de Problemas Complejos o CPS en el mundo de los medios de pago" class="wp-image-1776" style="width:591px;height:auto"/></figure>
 
 
 
@@ -196,7 +196,7 @@ permalink: /complex-problem-solving-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/hands-3127297_1280.jpg" alt="Procesos de M&amp;A generan problemas complejos" class="wp-image-1765" style="width:471px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/hands-3127297_1280.jpg" alt="Procesos de M&amp;A generan problemas complejos" class="wp-image-1765" style="width:471px;height:auto"/></figure>
 
 
 
@@ -228,7 +228,7 @@ permalink: /complex-problem-solving-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/mining-7671909_1280.jpg" alt="Plataformas Legacy. CPS o Complex Problem Solving medios de pago" class="wp-image-1767" style="width:419px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/mining-7671909_1280.jpg" alt="Plataformas Legacy. CPS o Complex Problem Solving medios de pago" class="wp-image-1767" style="width:419px;height:auto"/></figure>
 
 
 
@@ -272,7 +272,7 @@ permalink: /complex-problem-solving-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/skyline-255116_1280.jpg" alt="Megacorporaciones que generan problemas complejos" class="wp-image-1769" style="width:571px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/skyline-255116_1280.jpg" alt="Megacorporaciones que generan problemas complejos" class="wp-image-1769" style="width:571px;height:auto"/></figure>
 
 
 
@@ -308,7 +308,7 @@ permalink: /complex-problem-solving-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/fish-1045884_1280.jpg" alt="Diagrama de Ishikawa como CPS o Complex Problem Solving medios de pago" class="wp-image-1766" style="width:496px;height:auto"/><figcaption class="wp-element-caption">Representación del Diagrama de Ishikawa</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/fish-1045884_1280.jpg" alt="Diagrama de Ishikawa como CPS o Complex Problem Solving medios de pago" class="wp-image-1766" style="width:496px;height:auto"/><figcaption class="wp-element-caption">Representación del Diagrama de Ishikawa</figcaption></figure>
 
 
 

@@ -52,7 +52,7 @@ permalink: /efectivo-importante-entrevista-juan-jose-alvarez/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0034.jpeg" alt="El efectivo sigue siendo muy importante. Entrevista a Juan José Álvarez, Director de Negocio en Euro Automatic Cash" class="wp-image-1736" style="width:651px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0034.jpeg" alt="El efectivo sigue siendo muy importante. Entrevista a Juan José Álvarez, Director de Negocio en Euro Automatic Cash" class="wp-image-1736" style="width:651px;height:auto"/></figure>
 
 
 
@@ -120,7 +120,7 @@ permalink: /efectivo-importante-entrevista-juan-jose-alvarez/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0033.jpeg" alt="El efectivo sigue siendo muy importante. Entrevista a Juan José Álvarez, Director de Negocio en Euro Automatic Cash" class="wp-image-1737" style="width:585px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0033.jpeg" alt="El efectivo sigue siendo muy importante. Entrevista a Juan José Álvarez, Director de Negocio en Euro Automatic Cash" class="wp-image-1737" style="width:585px;height:auto"/></figure>
 
 
 
@@ -144,7 +144,7 @@ permalink: /efectivo-importante-entrevista-juan-jose-alvarez/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/IMG_0035.png" alt="" class="wp-image-1738" style="width:337px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/IMG_0035.png" alt="" class="wp-image-1738" style="width:337px;height:auto"/></figure>
 
 
 
@@ -188,7 +188,7 @@ permalink: /efectivo-importante-entrevista-juan-jose-alvarez/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/5e0e06fd-c6e0-478a-8023-38480c662af1.jpeg" alt="" class="wp-image-1745" style="width:711px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/5e0e06fd-c6e0-478a-8023-38480c662af1.jpeg" alt="" class="wp-image-1745" style="width:711px;height:auto"/></figure>
 
 
 

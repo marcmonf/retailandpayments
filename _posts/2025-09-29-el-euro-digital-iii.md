@@ -72,7 +72,7 @@ permalink: /el-euro-digital-iii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/european-parliament-6697945_1280.jpg" alt="el parlamento europeo" class="wp-image-2493" style="width:636px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/european-parliament-6697945_1280.jpg" alt="el parlamento europeo" class="wp-image-2493" style="width:636px;height:auto"/></figure>
 
 
 
@@ -128,7 +128,7 @@ permalink: /el-euro-digital-iii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/the-last-shirt-1510597_1280.jpg" alt="euro digital" class="wp-image-2492" style="width:545px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/the-last-shirt-1510597_1280.jpg" alt="euro digital" class="wp-image-2492" style="width:545px;height:auto"/></figure>
 
 
 
@@ -224,7 +224,7 @@ permalink: /el-euro-digital-iii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/office-1574717_1280.jpg" alt="estabilidad financiera euro digital
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/office-1574717_1280.jpg" alt="estabilidad financiera euro digital
 " class="wp-image-2494" style="width:564px;height:auto"/></figure>
 
 
@@ -309,7 +309,7 @@ permalink: /el-euro-digital-iii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/people-334110_1280.jpg" alt="soberania popular en entredicho por el euro digital" class="wp-image-2495" style="width:538px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/people-334110_1280.jpg" alt="soberania popular en entredicho por el euro digital" class="wp-image-2495" style="width:538px;height:auto"/></figure>
 
 
 
@@ -365,7 +365,7 @@ permalink: /el-euro-digital-iii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/cctv-surveillance-camera-7267551_1280.jpg" alt="euro digital vigilancia" class="wp-image-2497" style="width:596px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/cctv-surveillance-camera-7267551_1280.jpg" alt="euro digital vigilancia" class="wp-image-2497" style="width:596px;height:auto"/></figure>
 
 
 

@@ -48,7 +48,7 @@ permalink: /rp-news-01-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/tap-to-pay-nuevo-te-chai.png" alt="pagos" class="wp-image-2272" style="width:313px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/tap-to-pay-nuevo-te-chai.png" alt="pagos" class="wp-image-2272" style="width:313px;height:auto"/></figure>
 
 
 
@@ -80,7 +80,7 @@ permalink: /rp-news-01-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/el-carrito-ya-pide-visado.png" alt="pagos" class="wp-image-2273" style="width:326px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/el-carrito-ya-pide-visado.png" alt="pagos" class="wp-image-2273" style="width:326px;height:auto"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /rp-news-01-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/si-suena-a-fca-cuelga.png" alt="pagos" class="wp-image-2274" style="width:289px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/si-suena-a-fca-cuelga.png" alt="pagos" class="wp-image-2274" style="width:289px;height:auto"/></figure>
 
 
 
@@ -176,7 +176,7 @@ permalink: /rp-news-01-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/aerolineas-deciden-volar-alto.png" alt="pagos" class="wp-image-2277" style="width:329px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/aerolineas-deciden-volar-alto.png" alt="pagos" class="wp-image-2277" style="width:329px;height:auto"/></figure>
 
 
 
@@ -256,7 +256,7 @@ permalink: /rp-news-01-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/apple-pay-ahora-en-fasciculos.png" alt="pagos" class="wp-image-2276" style="width:370px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/apple-pay-ahora-en-fasciculos.png" alt="pagos" class="wp-image-2276" style="width:370px;height:auto"/></figure>
 
 
 

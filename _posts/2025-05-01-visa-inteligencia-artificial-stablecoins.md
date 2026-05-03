@@ -52,7 +52,7 @@ permalink: /visa-inteligencia-artificial-stablecoins/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/visa-6947134_1280.jpg" alt="Visa Inteligencia Artificial y Stablecoins" class="wp-image-1874" style="width:415px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/visa-6947134_1280.jpg" alt="Visa Inteligencia Artificial y Stablecoins" class="wp-image-1874" style="width:415px;height:auto"/></figure>
 
 
 
@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=TTli6qNE1pk
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/open-sign-1309682.jpg" alt="VISA inteligencia artificial y stablecoins" class="wp-image-611" style="width:541px;height:auto"/><figcaption class="wp-element-caption">VISA abre el mundo a la Inteligencia Artificial y Stablecoins en el mundo de medios de pago.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/open-sign-1309682.jpg" alt="VISA inteligencia artificial y stablecoins" class="wp-image-611" style="width:541px;height:auto"/><figcaption class="wp-element-caption">VISA abre el mundo a la Inteligencia Artificial y Stablecoins en el mundo de medios de pago.</figcaption></figure>
 
 
 
@@ -138,7 +138,7 @@ https://www.youtube.com/watch?v=TTli6qNE1pk
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/VISA-AI-agent.png" alt="VISA Inteligencia Artificial Agente " class="wp-image-1876" style="width:390px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/VISA-AI-agent.png" alt="VISA Inteligencia Artificial Agente " class="wp-image-1876" style="width:390px;height:auto"/></figure>
 
 
 
@@ -166,7 +166,7 @@ https://www.youtube.com/watch?v=TTli6qNE1pk
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/VISA-inteligencia-artificial-y-stablecoins.png" alt="VISA y la inteligencia artificial y stablecoins como USDC" class="wp-image-1875" style="width:532px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/VISA-inteligencia-artificial-y-stablecoins.png" alt="VISA y la inteligencia artificial y stablecoins como USDC" class="wp-image-1875" style="width:532px;height:auto"/></figure>
 
 
 
@@ -244,7 +244,7 @@ https://www.youtube.com/watch?v=TTli6qNE1pk
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/cusco-2422267_1280.png" alt="Peru VISA y las stablecoins" class="wp-image-1877" style="width:580px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/cusco-2422267_1280.png" alt="Peru VISA y las stablecoins" class="wp-image-1877" style="width:580px;height:auto"/></figure>
 
 
 
@@ -338,7 +338,7 @@ https://www.youtube.com/watch?v=TTli6qNE1pk
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/pink-house-907344_1920.jpg" alt="Casa Rosada Argentina Visa Inteligencia Artificial Stablecoins" class="wp-image-1878" style="width:598px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/pink-house-907344_1920.jpg" alt="Casa Rosada Argentina Visa Inteligencia Artificial Stablecoins" class="wp-image-1878" style="width:598px;height:auto"/></figure>
 
 
 
@@ -404,7 +404,7 @@ https://www.youtube.com/watch?v=TTli6qNE1pk
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/cartagena-de-indias-4788526_1280.jpg" alt="Colombia Cartagena VISA stablecoin" class="wp-image-1879" style="width:479px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/cartagena-de-indias-4788526_1280.jpg" alt="Colombia Cartagena VISA stablecoin" class="wp-image-1879" style="width:479px;height:auto"/></figure>
 
 
 
@@ -482,7 +482,7 @@ https://www.youtube.com/watch?v=TTli6qNE1pk
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/tether-6334564_1280.png" alt="tether USDT visa Stablecoin" class="wp-image-1880" style="width:350px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/tether-6334564_1280.png" alt="tether USDT visa Stablecoin" class="wp-image-1880" style="width:350px;height:auto"/></figure>
 
 
 

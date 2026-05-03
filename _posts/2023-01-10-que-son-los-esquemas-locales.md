@@ -52,11 +52,11 @@ permalink: /que-son-los-esquemas-locales/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/ventajas-medios-de-pago.png" alt="Qué son los esquemas locales. Ventajas del pago con tarjeta vs. pago con efectivo" class="wp-image-1254" width="527" height="261"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/ventajas-medios-de-pago.png" alt="Qué son los esquemas locales. Ventajas del pago con tarjeta vs. pago con efectivo" class="wp-image-1254" width="527" height="261"/></figure>
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/accesibilidad-del-efectivo.png" alt="Qué son los esquemas locales. Facilidad en el acceso al efectivo" class="wp-image-1256" width="530" height="251"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/accesibilidad-del-efectivo.png" alt="Qué son los esquemas locales. Facilidad en el acceso al efectivo" class="wp-image-1256" width="530" height="251"/></figure>
 
 
 
@@ -112,7 +112,7 @@ permalink: /que-son-los-esquemas-locales/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/globe-gcf653c728_1920.jpg" alt="que son los esquemas locales. Europa con gran número de esquemas locales" class="wp-image-1270" width="465" height="310"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/globe-gcf653c728_1920.jpg" alt="que son los esquemas locales. Europa con gran número de esquemas locales" class="wp-image-1270" width="465" height="310"/></figure>
 
 
 
@@ -156,7 +156,7 @@ permalink: /que-son-los-esquemas-locales/
 
 
 
-<figure class="wp-block-image size-full"><img src="/retailandpayments/assets/img/Diagrama-Pagos-Locales.png" alt="Como funcionan los esquemas locales. Pago Local. Flujo transacción pago local." class="wp-image-1262"/></figure>
+<figure class="wp-block-image size-full"><img src="/assets/img/Diagrama-Pagos-Locales.png" alt="Como funcionan los esquemas locales. Pago Local. Flujo transacción pago local." class="wp-image-1262"/></figure>
 
 
 
@@ -172,7 +172,7 @@ permalink: /que-son-los-esquemas-locales/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/credit-card-g6a724697e_1920.jpg" alt="qué son los esquemas locales. Tarjetas de diferentes esquemas" class="wp-image-1265" width="553" height="372"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/credit-card-g6a724697e_1920.jpg" alt="qué son los esquemas locales. Tarjetas de diferentes esquemas" class="wp-image-1265" width="553" height="372"/></figure>
 
 
 
@@ -266,7 +266,7 @@ permalink: /que-son-los-esquemas-locales/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/street-g483ab0349_1920.jpg" alt="que son los esquemas locales. Pagos locales en el mercado local" class="wp-image-1268" width="458" height="305"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/street-g483ab0349_1920.jpg" alt="que son los esquemas locales. Pagos locales en el mercado local" class="wp-image-1268" width="458" height="305"/></figure>
 
 
 

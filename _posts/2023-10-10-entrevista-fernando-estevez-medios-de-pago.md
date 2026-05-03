@@ -64,7 +64,7 @@ permalink: /entrevista-fernando-estevez-medios-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG-20200428-WA0018-002.jpg" alt="" class="wp-image-1559" style="width:388px;height:517px" width="388" height="517"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG-20200428-WA0018-002.jpg" alt="" class="wp-image-1559" style="width:388px;height:517px" width="388" height="517"/></figure>
 
 
 
@@ -108,7 +108,7 @@ permalink: /entrevista-fernando-estevez-medios-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-full"><a href="https://www.latamdigitalbridge.com/" target="_blank" rel="noreferrer noopener"><img src="/retailandpayments/assets/img/logo-empresa.jpg" alt="" class="wp-image-1560"/></a></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.latamdigitalbridge.com/" target="_blank" rel="noreferrer noopener"><img src="/assets/img/logo-empresa.jpg" alt="" class="wp-image-1560"/></a></figure>
 
 
 
@@ -152,7 +152,7 @@ permalink: /entrevista-fernando-estevez-medios-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/rio-de-janeiro-1963744_1280.jpg" alt="" class="wp-image-1566" style="width:442px;height:295px" width="442" height="295"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/rio-de-janeiro-1963744_1280.jpg" alt="" class="wp-image-1566" style="width:442px;height:295px" width="442" height="295"/></figure>
 
 
 
@@ -172,7 +172,7 @@ permalink: /entrevista-fernando-estevez-medios-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/madrid-2256884.jpg" alt="retos de la adquirencia en España" class="wp-image-1292" style="width:454px;height:304px" width="454" height="304"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/madrid-2256884.jpg" alt="retos de la adquirencia en España" class="wp-image-1292" style="width:454px;height:304px" width="454" height="304"/></figure>
 
 
 
@@ -228,7 +228,7 @@ permalink: /entrevista-fernando-estevez-medios-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/american-express-89024.jpg" alt="" class="wp-image-683" style="width:418px;height:262px" width="418" height="262"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/american-express-89024.jpg" alt="" class="wp-image-683" style="width:418px;height:262px" width="418" height="262"/></figure>
 
 
 
@@ -260,7 +260,7 @@ permalink: /entrevista-fernando-estevez-medios-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/94EC158E-5476-496C-83EB-1BEE4FFD563C.jpeg" alt="" class="wp-image-922" style="width:279px;height:372px" width="279" height="372"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/94EC158E-5476-496C-83EB-1BEE4FFD563C.jpeg" alt="" class="wp-image-922" style="width:279px;height:372px" width="279" height="372"/></figure>
 
 
 
@@ -276,7 +276,7 @@ permalink: /entrevista-fernando-estevez-medios-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/97F3F3DA-2772-4BC0-8D29-6D6328709300.png" alt="" class="wp-image-1440" style="width:336px;height:219px" width="336" height="219"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/97F3F3DA-2772-4BC0-8D29-6D6328709300.png" alt="" class="wp-image-1440" style="width:336px;height:219px" width="336" height="219"/></figure>
 
 
 

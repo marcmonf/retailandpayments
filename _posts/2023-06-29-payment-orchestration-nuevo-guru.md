@@ -88,7 +88,7 @@ permalink: /payment-orchestration-nuevo-guru/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/choice-2692575_1920.jpg" alt="Payment Orchestration el nuevo guru. Elige tu propia combinación de pagos" class="wp-image-1489" width="668" height="247"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/choice-2692575_1920.jpg" alt="Payment Orchestration el nuevo guru. Elige tu propia combinación de pagos" class="wp-image-1489" width="668" height="247"/></figure>
 
 
 
@@ -208,7 +208,7 @@ permalink: /payment-orchestration-nuevo-guru/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/doors-1767563_1920.jpg" alt="Payment Orchestration el nuevo gurú. Diferentes opciones. Diferentes adquirentes. Adquirencia a la carta" class="wp-image-1491" width="576" height="306"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/doors-1767563_1920.jpg" alt="Payment Orchestration el nuevo gurú. Diferentes opciones. Diferentes adquirentes. Adquirencia a la carta" class="wp-image-1491" width="576" height="306"/></figure>
 
 
 
@@ -350,7 +350,7 @@ permalink: /payment-orchestration-nuevo-guru/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/technology-1095751_1920.jpg" alt="" class="wp-image-1493" width="713" height="198"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/technology-1095751_1920.jpg" alt="" class="wp-image-1493" width="713" height="198"/></figure>
 
 
 

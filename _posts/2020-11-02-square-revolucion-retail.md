@@ -48,7 +48,7 @@ permalink: /square-revolucion-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Square_Inc_POS_NFC.png" alt="La revolución del retail para crecer. Terminal MPOS" class="wp-image-796" width="385" height="166"/><figcaption class="wp-element-caption">Card Reader para Smartphone con NFC</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Square_Inc_POS_NFC.png" alt="La revolución del retail para crecer. Terminal MPOS" class="wp-image-796" width="385" height="166"/><figcaption class="wp-element-caption">Card Reader para Smartphone con NFC</figcaption></figure>
 
 
 
@@ -86,7 +86,7 @@ permalink: /square-revolucion-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Square_POS.jpg" alt="POS Square. La revolución del retail para crecer." class="wp-image-797" width="461" height="226"/><figcaption class="wp-element-caption">POS de Square con Card Reader con tecnología NFC</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Square_POS.jpg" alt="POS Square. La revolución del retail para crecer." class="wp-image-797" width="461" height="226"/><figcaption class="wp-element-caption">POS de Square con Card Reader con tecnología NFC</figcaption></figure>
 
 
 
@@ -106,7 +106,7 @@ permalink: /square-revolucion-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/coffee-shop-1209863.jpg" alt="Cafetería. SMB. Square. Pagos. Retail." class="wp-image-798" width="434" height="244"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/coffee-shop-1209863.jpg" alt="Cafetería. SMB. Square. Pagos. Retail." class="wp-image-798" width="434" height="244"/></figure>
 
 
 
@@ -134,7 +134,7 @@ permalink: /square-revolucion-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Square_ecosystem.png" alt="Square. La revolución del Retail para crecer. Cash App" class="wp-image-801" width="643" height="304"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Square_ecosystem.png" alt="Square. La revolución del Retail para crecer. Cash App" class="wp-image-801" width="643" height="304"/></figure>
 
 
 

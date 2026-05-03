@@ -56,7 +56,7 @@ permalink: /el-euro-digital-v/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ultimate-test-1440022_1280.jpg" alt="El Euro Digital rompe Europa" class="wp-image-2579" style="width:553px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ultimate-test-1440022_1280.jpg" alt="El Euro Digital rompe Europa" class="wp-image-2579" style="width:553px;height:auto"/></figure>
 
 
 
@@ -128,7 +128,7 @@ permalink: /el-euro-digital-v/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/money-1508454_1280.jpg" alt="antiguos billetes de 500€ conocidos como chistorras euro digital" class="wp-image-2580" style="width:502px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/money-1508454_1280.jpg" alt="antiguos billetes de 500€ conocidos como chistorras euro digital" class="wp-image-2580" style="width:502px;height:auto"/></figure>
 
 
 
@@ -180,7 +180,7 @@ permalink: /el-euro-digital-v/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/wallet-2302241_1280.jpg" alt="euro digital" class="wp-image-2581" style="width:547px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/wallet-2302241_1280.jpg" alt="euro digital" class="wp-image-2581" style="width:547px;height:auto"/></figure>
 
 
 
@@ -268,7 +268,7 @@ permalink: /el-euro-digital-v/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/europe-palace-5414751_1280.jpg" alt="" class="wp-image-2582" style="width:603px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/europe-palace-5414751_1280.jpg" alt="" class="wp-image-2582" style="width:603px;height:auto"/></figure>
 
 
 

@@ -68,7 +68,7 @@ permalink: /identidad-euro-digital-acabar-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/camera-3762055_1280.jpg" alt="Identidad y Euro digital como forma de acabar con la libertad." class="wp-image-1752" style="width:567px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/camera-3762055_1280.jpg" alt="Identidad y Euro digital como forma de acabar con la libertad." class="wp-image-1752" style="width:567px;height:auto"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /identidad-euro-digital-acabar-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/banknotes-209104_1280.jpg" alt="El Euro Digital será nuestra ruina" class="wp-image-1750" style="width:541px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/banknotes-209104_1280.jpg" alt="El Euro Digital será nuestra ruina" class="wp-image-1750" style="width:541px;height:auto"/></figure>
 
 
 
@@ -132,7 +132,7 @@ permalink: /identidad-euro-digital-acabar-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/european-parliament-2224221_1920.jpg" alt="El Parlamento Europeo es el germen de la destrucción de Europa. Identidad y Euro digital como forma de acabar con la libertad." class="wp-image-1749" style="width:528px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/european-parliament-2224221_1920.jpg" alt="El Parlamento Europeo es el germen de la destrucción de Europa. Identidad y Euro digital como forma de acabar con la libertad." class="wp-image-1749" style="width:528px;height:auto"/></figure>
 
 
 
@@ -220,7 +220,7 @@ permalink: /identidad-euro-digital-acabar-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/hand-784077_1280.jpg" alt="Ellos deciden, tú sufres las consecuencias. Identidad y Euro digital como forma de acabar con la libertad." class="wp-image-1753" style="width:355px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/hand-784077_1280.jpg" alt="Ellos deciden, tú sufres las consecuencias. Identidad y Euro digital como forma de acabar con la libertad." class="wp-image-1753" style="width:355px;height:auto"/></figure>
 
 
 

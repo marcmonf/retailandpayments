@@ -122,7 +122,7 @@ permalink: /superapps-next-big-thing/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/smartphone-1184865_1280.png" alt="Las superapps aúnan consigo toda una serie de servicios, de ahí que puedan convertirse en el next big thing de los medios de pago" class="wp-image-1798" style="width:501px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/smartphone-1184865_1280.png" alt="Las superapps aúnan consigo toda una serie de servicios, de ahí que puedan convertirse en el next big thing de los medios de pago" class="wp-image-1798" style="width:501px;height:auto"/></figure>
 
 
 
@@ -190,7 +190,7 @@ permalink: /superapps-next-big-thing/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/navigation-1048294_1280.jpg" alt="Superapps el next big thing en el ecosistema de medios de pago. Uber es una de las empresas que puede llegar a serlo." class="wp-image-1796" style="width:519px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/navigation-1048294_1280.jpg" alt="Superapps el next big thing en el ecosistema de medios de pago. Uber es una de las empresas que puede llegar a serlo." class="wp-image-1796" style="width:519px;height:auto"/></figure>
 
 
 
@@ -278,7 +278,7 @@ permalink: /superapps-next-big-thing/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/money-transfer-7185873_1280.png" alt="Superapps: el next big thing en los medios de pago. El Open Banking puede ser una de las palancas que usen las superapps para revolucionar el mundo de los medios de pago." class="wp-image-1800" style="width:540px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/money-transfer-7185873_1280.png" alt="Superapps: el next big thing en los medios de pago. El Open Banking puede ser una de las palancas que usen las superapps para revolucionar el mundo de los medios de pago." class="wp-image-1800" style="width:540px;height:auto"/></figure>
 
 
 
@@ -334,7 +334,7 @@ permalink: /superapps-next-big-thing/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/payment-6404790_1280.jpg" alt="Superapps como el próximo next big thing de los medios de pago. " class="wp-image-1801" style="width:509px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/payment-6404790_1280.jpg" alt="Superapps como el próximo next big thing de los medios de pago. " class="wp-image-1801" style="width:509px;height:auto"/></figure>
 
 
 
@@ -384,7 +384,7 @@ permalink: /superapps-next-big-thing/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/alipay-5417261_1280.jpg" alt="Alipay, una de las superapps que pueden ser el next big thing en los medios de pago" class="wp-image-1794" style="width:530px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/alipay-5417261_1280.jpg" alt="Alipay, una de las superapps que pueden ser el next big thing en los medios de pago" class="wp-image-1794" style="width:530px;height:auto"/></figure>
 
 
 

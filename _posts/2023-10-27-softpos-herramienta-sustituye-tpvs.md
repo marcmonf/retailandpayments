@@ -36,7 +36,7 @@ permalink: /softpos-herramienta-sustituye-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/y-si-no-desmientemelo-softpos.jpeg" alt="" class="wp-image-1638" style="aspect-ratio:1;width:281px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/y-si-no-desmientemelo-softpos.jpeg" alt="" class="wp-image-1638" style="aspect-ratio:1;width:281px;height:auto"/></figure>
 
 
 
@@ -72,7 +72,7 @@ permalink: /softpos-herramienta-sustituye-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/softpos_1.jpg" alt="SoftPOS herramienta sustituye TPVs" class="wp-image-1641" style="aspect-ratio:1;width:445px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/softpos_1.jpg" alt="SoftPOS herramienta sustituye TPVs" class="wp-image-1641" style="aspect-ratio:1;width:445px;height:auto"/></figure>
 
 
 
@@ -108,7 +108,7 @@ permalink: /softpos-herramienta-sustituye-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0023.jpeg" alt="SoftPOS herramienta que sustituye a los TPVs. Pequeño comercio principal usuario del Stand Alone" class="wp-image-1645" style="aspect-ratio:1.3509234828496042;width:462px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0023.jpeg" alt="SoftPOS herramienta que sustituye a los TPVs. Pequeño comercio principal usuario del Stand Alone" class="wp-image-1645" style="aspect-ratio:1.3509234828496042;width:462px;height:auto"/></figure>
 
 
 
@@ -140,7 +140,7 @@ permalink: /softpos-herramienta-sustituye-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/credit-card-g6a724697e_1920.jpg" alt="VISA y Mastercard como impulsores del Pin on Glass" class="wp-image-1265" style="aspect-ratio:1.499267935578331;width:475px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/credit-card-g6a724697e_1920.jpg" alt="VISA y Mastercard como impulsores del Pin on Glass" class="wp-image-1265" style="aspect-ratio:1.499267935578331;width:475px;height:auto"/></figure>
 
 
 
@@ -188,7 +188,7 @@ permalink: /softpos-herramienta-sustituye-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/IMG_0025.jpeg" alt="PCI SSC, certificación MPoC CPoC SPoC SoftPOS herramienta que sustituye a los TPVs" class="wp-image-1649" style="aspect-ratio:1;width:289px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/IMG_0025.jpeg" alt="PCI SSC, certificación MPoC CPoC SPoC SoftPOS herramienta que sustituye a los TPVs" class="wp-image-1649" style="aspect-ratio:1;width:289px;height:auto"/></figure>
 
 
 

@@ -56,7 +56,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/iCT220_ingenico_no_data.jpeg" alt="" class="wp-image-997" width="465" height="349"/><figcaption class="wp-element-caption">iCT250 Ingenico</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/iCT220_ingenico_no_data.jpeg" alt="" class="wp-image-997" width="465" height="349"/><figcaption class="wp-element-caption">iCT250 Ingenico</figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/PaxGlobal.png" alt="" class="wp-image-1010" width="326" height="159"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/PaxGlobal.png" alt="" class="wp-image-1010" width="326" height="159"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/a920_pax_global_01.jpg" alt="" class="wp-image-1012" width="227" height="217"/><figcaption class="wp-element-caption">A920 de Pax</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/a920_pax_global_01.jpg" alt="" class="wp-image-1012" width="227" height="217"/><figcaption class="wp-element-caption">A920 de Pax</figcaption></figure>
 
 
 
@@ -132,7 +132,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/verifone_logo.png" alt="" class="wp-image-1014" width="280" height="187"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/verifone_logo.png" alt="" class="wp-image-1014" width="280" height="187"/></figure>
 
 
 
@@ -144,7 +144,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Verifone_ZON_Jr_XL.png" alt="" class="wp-image-1029" width="305" height="290"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Verifone_ZON_Jr_XL.png" alt="" class="wp-image-1029" width="305" height="290"/></figure>
 
 
 
@@ -156,7 +156,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/66383DFB-A704-42D5-823C-2E8AEB9D996D.png" alt="" class="wp-image-1019" width="347" height="365"/><figcaption class="wp-element-caption">V240m Verifone</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/66383DFB-A704-42D5-823C-2E8AEB9D996D.png" alt="" class="wp-image-1019" width="347" height="365"/><figcaption class="wp-element-caption">V240m Verifone</figcaption></figure>
 
 
 
@@ -188,7 +188,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/ingenico_logo.jpg" alt="" class="wp-image-1022" width="196" height="196"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/ingenico_logo.jpg" alt="" class="wp-image-1022" width="196" height="196"/></figure>
 
 
 
@@ -200,7 +200,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/monic_1800_CARTEL.png" alt="" class="wp-image-1024" width="256" height="239"/><figcaption class="wp-element-caption">Ingenico Monic 1800 CART'EL</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/monic_1800_CARTEL.png" alt="" class="wp-image-1024" width="256" height="239"/><figcaption class="wp-element-caption">Ingenico Monic 1800 CART'EL</figcaption></figure>
 
 
 
@@ -224,7 +224,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Bull_TPV01.jpg" alt="" class="wp-image-1027" width="365" height="274"/><figcaption class="wp-element-caption">Telesincro TPV01</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Bull_TPV01.jpg" alt="" class="wp-image-1027" width="365" height="274"/><figcaption class="wp-element-caption">Telesincro TPV01</figcaption></figure>
 
 
 
@@ -240,7 +240,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img src="/retailandpayments/assets/img/Lane7000.png" alt="" class="wp-image-1032"/><figcaption class="wp-element-caption">Lane8000 Ingenico</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/assets/img/Lane7000.png" alt="" class="wp-image-1032"/><figcaption class="wp-element-caption">Lane8000 Ingenico</figcaption></figure>
 
 
 
@@ -264,7 +264,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/BDB1F84B-F8CE-4EEF-A4DA-923EF9D5394F.png" alt="" class="wp-image-1036" width="251" height="64"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/BDB1F84B-F8CE-4EEF-A4DA-923EF9D5394F.png" alt="" class="wp-image-1036" width="251" height="64"/></figure>
 
 
 
@@ -280,7 +280,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/8EB94AD0-F12D-4870-8706-80AC22F2D37F.png" alt="" class="wp-image-1037" width="177" height="206"/><figcaption class="wp-element-caption">Vega 3000</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/8EB94AD0-F12D-4870-8706-80AC22F2D37F.png" alt="" class="wp-image-1037" width="177" height="206"/><figcaption class="wp-element-caption">Vega 3000</figcaption></figure>
 
 
 
@@ -292,7 +292,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/71C1E826-3868-4C48-BFE5-BAA4CA71B25E.png" alt="" class="wp-image-1038" width="190" height="35"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/71C1E826-3868-4C48-BFE5-BAA4CA71B25E.png" alt="" class="wp-image-1038" width="190" height="35"/></figure>
 
 
 
@@ -300,7 +300,7 @@ permalink: /las-3-empresas-mas-grandes-de-tpvs/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/95A088AC-5A17-4DAE-AE9F-8EC4B528DDDE.png" alt="" class="wp-image-1039" width="264" height="264"/><figcaption class="wp-element-caption">Sunmi V2</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/95A088AC-5A17-4DAE-AE9F-8EC4B528DDDE.png" alt="" class="wp-image-1039" width="264" height="264"/><figcaption class="wp-element-caption">Sunmi V2</figcaption></figure>
 
 
 

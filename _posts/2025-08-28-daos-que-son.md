@@ -56,7 +56,7 @@ permalink: /daos-que-son/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ai-generated-8159378_1280.jpg" alt="DAOs que son, la evolución a comunidades" class="wp-image-2217" style="width:578px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ai-generated-8159378_1280.jpg" alt="DAOs que son, la evolución a comunidades" class="wp-image-2217" style="width:578px;height:auto"/></figure>
 
 
 
@@ -182,7 +182,7 @@ permalink: /daos-que-son/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/team-386673_1280.jpg" alt="DAOs qué son" class="wp-image-2218" style="width:543px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/team-386673_1280.jpg" alt="DAOs qué son" class="wp-image-2218" style="width:543px;height:auto"/></figure>
 
 
 
@@ -274,7 +274,7 @@ permalink: /daos-que-son/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/bitcoin-9193579_1280.jpg" alt="DAOs qué son" class="wp-image-2219" style="width:407px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/bitcoin-9193579_1280.jpg" alt="DAOs qué son" class="wp-image-2219" style="width:407px;height:auto"/></figure>
 
 
 

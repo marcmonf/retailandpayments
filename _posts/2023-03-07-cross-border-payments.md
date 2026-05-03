@@ -52,7 +52,7 @@ permalink: /cross-border-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/visa-6947134.jpg" alt="Qué son los cross-border payments" class="wp-image-1312" width="509" height="339"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/visa-6947134.jpg" alt="Qué son los cross-border payments" class="wp-image-1312" width="509" height="339"/></figure>
 
 
 
@@ -96,7 +96,7 @@ permalink: /cross-border-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/shopping-2735735.jpg" alt="Que son los cross-border payments. Sector Lujo." class="wp-image-1310" width="510" height="329"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/shopping-2735735.jpg" alt="Que son los cross-border payments. Sector Lujo." class="wp-image-1310" width="510" height="329"/></figure>
 
 
 
@@ -132,7 +132,7 @@ permalink: /cross-border-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/foz-do-iguacu-221289.jpg" alt="Qué son los cross-border payments. Frontera. Border" class="wp-image-1313" width="500" height="280"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/foz-do-iguacu-221289.jpg" alt="Qué son los cross-border payments. Frontera. Border" class="wp-image-1313" width="500" height="280"/></figure>
 
 
 
@@ -242,7 +242,7 @@ permalink: /cross-border-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/fiber-4814456.jpg" alt="Qué son los cross-border payments. Solución robusta." class="wp-image-1314" width="544" height="363"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/fiber-4814456.jpg" alt="Qué son los cross-border payments. Solución robusta." class="wp-image-1314" width="544" height="363"/></figure>
 
 
 

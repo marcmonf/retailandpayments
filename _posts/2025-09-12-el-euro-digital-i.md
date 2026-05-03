@@ -82,7 +82,7 @@ permalink: /el-euro-digital-i/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/euro-5094279_1280.jpg" alt="euro digital como reto tecnológico" class="wp-image-2330" style="width:501px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/euro-5094279_1280.jpg" alt="euro digital como reto tecnológico" class="wp-image-2330" style="width:501px;height:auto"/></figure>
 
 
 
@@ -170,7 +170,7 @@ permalink: /el-euro-digital-i/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/deadline-6575676_1280.jpg" alt="euro digital programable" class="wp-image-2331" style="width:489px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/deadline-6575676_1280.jpg" alt="euro digital programable" class="wp-image-2331" style="width:489px;height:auto"/></figure>
 
 
 
@@ -238,7 +238,7 @@ permalink: /el-euro-digital-i/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/security-8656665_1280.jpg" alt="euro digital como vigilancia de la poblacion" class="wp-image-2332" style="width:564px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/security-8656665_1280.jpg" alt="euro digital como vigilancia de la poblacion" class="wp-image-2332" style="width:564px;height:auto"/></figure>
 
 
 
@@ -298,7 +298,7 @@ permalink: /el-euro-digital-i/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/euro-sculpture-2867942_1280.jpg" alt="euro digital como forma de sometimiento" class="wp-image-2333" style="width:502px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/euro-sculpture-2867942_1280.jpg" alt="euro digital como forma de sometimiento" class="wp-image-2333" style="width:502px;height:auto"/></figure>
 
 
 
@@ -354,7 +354,7 @@ permalink: /el-euro-digital-i/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/chain-5596267_1280.png" alt="el euro digital significa esclavitud" class="wp-image-2334" style="width:471px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/chain-5596267_1280.png" alt="el euro digital significa esclavitud" class="wp-image-2334" style="width:471px;height:auto"/></figure>
 
 
 

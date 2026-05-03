@@ -16,7 +16,7 @@ permalink: /instant-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized is-style-default"><img src="/retailandpayments/assets/img/C1531C8E-0E50-44AF-A28F-BED0A6683426.jpeg" alt="Llegan los Instant Payments. Homenaje al Maestro Alonso Hernández Martos. " class="wp-image-1429" width="304" height="405"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized is-style-default"><img src="/assets/img/C1531C8E-0E50-44AF-A28F-BED0A6683426.jpeg" alt="Llegan los Instant Payments. Homenaje al Maestro Alonso Hernández Martos. " class="wp-image-1429" width="304" height="405"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /instant-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/CC805291-86A9-4090-9DE9-1E753406A0C2.jpeg" alt="Llegan los Instant Payments. Alicia Maniega, CEO de B.Free; Eduardo Prieto, Country Manager de VISA y Rodrigo Vilarino, Country Manager de Worldpay" class="wp-image-1432" width="533" height="400"/><figcaption class="wp-element-caption">De izq. a drcha.: Alicia Maniega, CEO de B.Free; Eduardo Prieto, Country Manager de VISA y Rodrigo Vilarino, Country Manager de Worldpay Spain</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/CC805291-86A9-4090-9DE9-1E753406A0C2.jpeg" alt="Llegan los Instant Payments. Alicia Maniega, CEO de B.Free; Eduardo Prieto, Country Manager de VISA y Rodrigo Vilarino, Country Manager de Worldpay" class="wp-image-1432" width="533" height="400"/><figcaption class="wp-element-caption">De izq. a drcha.: Alicia Maniega, CEO de B.Free; Eduardo Prieto, Country Manager de VISA y Rodrigo Vilarino, Country Manager de Worldpay Spain</figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ permalink: /instant-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/97F3F3DA-2772-4BC0-8D29-6D6328709300.png" alt="" class="wp-image-1440" width="480" height="313"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/97F3F3DA-2772-4BC0-8D29-6D6328709300.png" alt="" class="wp-image-1440" width="480" height="313"/></figure>
 
 
 
@@ -180,7 +180,7 @@ permalink: /instant-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/389300EC-C6D9-42B9-9094-1308863BF521.jpeg" alt="Llegan los Instant Payments. Conductor Uber" class="wp-image-1434" width="480" height="320"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/389300EC-C6D9-42B9-9094-1308863BF521.jpeg" alt="Llegan los Instant Payments. Conductor Uber" class="wp-image-1434" width="480" height="320"/></figure>
 
 
 
@@ -192,7 +192,7 @@ permalink: /instant-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/3AF96EAC-AD24-4DFA-944C-CF291603FB55.png" alt="Llegan los Instant Payments. Tax Free " class="wp-image-1437" width="512" height="384"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/3AF96EAC-AD24-4DFA-944C-CF291603FB55.png" alt="Llegan los Instant Payments. Tax Free " class="wp-image-1437" width="512" height="384"/></figure>
 
 
 
@@ -224,7 +224,7 @@ permalink: /instant-payments/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/E72AEF74-4283-48DF-B545-414F2A9A7236.png" alt="Llegan los Instant Payments. Marketplace" class="wp-image-1439" width="512" height="341"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/E72AEF74-4283-48DF-B545-414F2A9A7236.png" alt="Llegan los Instant Payments. Marketplace" class="wp-image-1439" width="512" height="341"/></figure>
 
 
 

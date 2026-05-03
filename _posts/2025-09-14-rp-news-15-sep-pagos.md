@@ -48,7 +48,7 @@ permalink: /rp-news-15-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/el-banco-ya-no-te-quiere.png" alt="open banking" class="wp-image-2368" style="width:412px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/el-banco-ya-no-te-quiere.png" alt="open banking" class="wp-image-2368" style="width:412px;height:auto"/></figure>
 
 
 
@@ -100,7 +100,7 @@ permalink: /rp-news-15-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/el-camello-te-espera-1.png" alt="pagos news" class="wp-image-2371" style="width:352px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/el-camello-te-espera-1.png" alt="pagos news" class="wp-image-2371" style="width:352px;height:auto"/></figure>
 
 
 
@@ -172,7 +172,7 @@ permalink: /rp-news-15-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/el-robot-dice-que-no-te-queda-bien.png" alt="pagos news" class="wp-image-2372" style="width:430px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/el-robot-dice-que-no-te-queda-bien.png" alt="pagos news" class="wp-image-2372" style="width:430px;height:auto"/></figure>
 
 
 
@@ -204,7 +204,7 @@ permalink: /rp-news-15-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/te-mudaste-cerca-de-IKEA-y-te-salio-un-TEMU-al-lado.png" alt="pagos news" class="wp-image-2374" style="width:448px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/te-mudaste-cerca-de-IKEA-y-te-salio-un-TEMU-al-lado.png" alt="pagos news" class="wp-image-2374" style="width:448px;height:auto"/></figure>
 
 
 
@@ -252,7 +252,7 @@ permalink: /rp-news-15-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/wise-quiere-ser-banco.-Los-bancos-quieren-ser-wise.png" alt="" class="wp-image-2377" style="width:509px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/wise-quiere-ser-banco.-Los-bancos-quieren-ser-wise.png" alt="" class="wp-image-2377" style="width:509px;height:auto"/></figure>
 
 
 

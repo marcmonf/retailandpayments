@@ -24,7 +24,7 @@ permalink: /protocolo-ap2-de-google/
 
 
 
-<div class="wp-block-cover aligncenter"><img class="wp-block-cover__image-background wp-image-2437" alt="" src="/retailandpayments/assets/img/IMG_3482.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<div class="wp-block-cover aligncenter"><img class="wp-block-cover__image-background wp-image-2437" alt="" src="/assets/img/IMG_3482.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-20 has-background-dim"></span><div class="wp-block-cover__inner-container">
 <p><strong>¡¡QUE SI YA HAS VISTO MI POST!!</strong></p>
 </div></div>
 
@@ -94,7 +94,7 @@ permalink: /protocolo-ap2-de-google/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/mannequin-915135_1280.jpg" alt="PROTOCOLO AP2 DE GOOGLE" class="wp-image-2438" style="width:544px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/mannequin-915135_1280.jpg" alt="PROTOCOLO AP2 DE GOOGLE" class="wp-image-2438" style="width:544px;height:auto"/></figure>
 
 
 
@@ -138,7 +138,7 @@ permalink: /protocolo-ap2-de-google/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/shopping-cart-318769_1280.jpg" alt="carrito abandonado protocolo ap2 de google" class="wp-image-2439" style="width:579px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/shopping-cart-318769_1280.jpg" alt="carrito abandonado protocolo ap2 de google" class="wp-image-2439" style="width:579px;height:auto"/></figure>
 
 
 
@@ -170,7 +170,7 @@ permalink: /protocolo-ap2-de-google/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/scam-fraud-alert.jpg" alt="scam fraud protocolo ap2 google" class="wp-image-2441" style="width:514px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/scam-fraud-alert.jpg" alt="scam fraud protocolo ap2 google" class="wp-image-2441" style="width:514px;height:auto"/></figure>
 
 
 
@@ -238,7 +238,7 @@ permalink: /protocolo-ap2-de-google/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/evolution-3885331_1280.jpg" alt="evolution protocolo ap2 google" class="wp-image-2443" style="width:623px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/evolution-3885331_1280.jpg" alt="evolution protocolo ap2 google" class="wp-image-2443" style="width:623px;height:auto"/></figure>
 
 
 

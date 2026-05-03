@@ -48,7 +48,7 @@ permalink: /bitcoin-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/conspiracion.gif" alt="" class="wp-image-1068" width="295" height="187"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/conspiracion.gif" alt="" class="wp-image-1068" width="295" height="187"/></figure>
 
 
 
@@ -162,7 +162,7 @@ https://youtu.be/cOy6hqzfsAs
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/brrrrr.gif" alt="" class="wp-image-1066" width="260" height="260"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/brrrrr.gif" alt="" class="wp-image-1066" width="260" height="260"/></figure>
 
 
 

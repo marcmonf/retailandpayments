@@ -32,7 +32,7 @@ permalink: /cbdc-ocaso-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0014.jpeg" alt="Adam Smith en Edimburgo. El CBDC el ocaso de la libertad" class="wp-image-1532" width="391" height="521"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0014.jpeg" alt="Adam Smith en Edimburgo. El CBDC el ocaso de la libertad" class="wp-image-1532" width="391" height="521"/></figure>
 
 
 
@@ -130,7 +130,7 @@ permalink: /cbdc-ocaso-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0012.jpeg" alt="El CBDC es el ocaso de la libertad" class="wp-image-1528" width="609" height="405"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0012.jpeg" alt="El CBDC es el ocaso de la libertad" class="wp-image-1528" width="609" height="405"/></figure>
 
 
 
@@ -194,7 +194,7 @@ permalink: /cbdc-ocaso-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0013.jpeg" alt="Sede del Banco Central Europeo. BCE. El CBDC es el ocaso de la libertad" class="wp-image-1530" width="533" height="400"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0013.jpeg" alt="Sede del Banco Central Europeo. BCE. El CBDC es el ocaso de la libertad" class="wp-image-1530" width="533" height="400"/></figure>
 
 
 
@@ -250,7 +250,7 @@ permalink: /cbdc-ocaso-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/euro-5094284_1280.jpg" alt="El Euro Digital. CBDC." class="wp-image-1543" width="545" height="363"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/euro-5094284_1280.jpg" alt="El Euro Digital. CBDC." class="wp-image-1543" width="545" height="363"/></figure>
 
 
 
@@ -338,7 +338,7 @@ permalink: /cbdc-ocaso-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/blockchain-3750157_1920.jpg" alt="blockchain" class="wp-image-1540" width="551" height="276"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/blockchain-3750157_1920.jpg" alt="blockchain" class="wp-image-1540" width="551" height="276"/></figure>
 
 
 
@@ -398,7 +398,7 @@ permalink: /cbdc-ocaso-libertad/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/change-my-mind-CBDC.png" alt="El CBDC es el ocaso de nuestra libertad" class="wp-image-1545" width="468" height="346"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/change-my-mind-CBDC.png" alt="El CBDC es el ocaso de nuestra libertad" class="wp-image-1545" width="468" height="346"/></figure>
 
 
 

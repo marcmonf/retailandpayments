@@ -80,7 +80,7 @@ permalink: /pago-estados-unidos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/interac_canada.jpg" alt="Cómo funciona el pago en Estados Unidos" class="wp-image-1181" width="407" height="272"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/interac_canada.jpg" alt="Cómo funciona el pago en Estados Unidos" class="wp-image-1181" width="407" height="272"/></figure>
 
 
 
@@ -168,7 +168,7 @@ permalink: /pago-estados-unidos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/statue-of-liberty-gd876231e0_1920.jpg" alt="como funciona el pago en Estados Unidos payments usa" class="wp-image-1185" width="437" height="285"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/statue-of-liberty-gd876231e0_1920.jpg" alt="como funciona el pago en Estados Unidos payments usa" class="wp-image-1185" width="437" height="285"/></figure>
 
 
 
@@ -248,7 +248,7 @@ permalink: /pago-estados-unidos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/new-york-1071162_1920.jpg" alt="como funciona el pago en Estados Unidos" class="wp-image-1189" width="467" height="278"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/new-york-1071162_1920.jpg" alt="como funciona el pago en Estados Unidos" class="wp-image-1189" width="467" height="278"/></figure>
 
 
 
@@ -424,7 +424,7 @@ permalink: /pago-estados-unidos/
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img src="/retailandpayments/assets/img/payments-type-FED.png" alt="cómo funciona el pago en Estados Unidos" class="wp-image-1193"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/assets/img/payments-type-FED.png" alt="cómo funciona el pago en Estados Unidos" class="wp-image-1193"/></figure>
 
 
 

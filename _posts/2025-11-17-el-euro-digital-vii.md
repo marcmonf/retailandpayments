@@ -68,7 +68,7 @@ permalink: /el-euro-digital-vii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ecb-4148921_1280.jpg" alt="el Banco Central Europeo cerebro del Euro Digital" class="wp-image-2607" style="width:575px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ecb-4148921_1280.jpg" alt="el Banco Central Europeo cerebro del Euro Digital" class="wp-image-2607" style="width:575px;height:auto"/></figure>
 
 
 
@@ -136,7 +136,7 @@ permalink: /el-euro-digital-vii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/inflation-8499273_1280.jpg" alt="la inflación consecuencia del euro digital" class="wp-image-2608" style="width:563px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/inflation-8499273_1280.jpg" alt="la inflación consecuencia del euro digital" class="wp-image-2608" style="width:563px;height:auto"/></figure>
 
 
 
@@ -204,7 +204,7 @@ permalink: /el-euro-digital-vii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/greed-4348829_1280.jpg" alt="" class="wp-image-2609" style="width:609px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/greed-4348829_1280.jpg" alt="" class="wp-image-2609" style="width:609px;height:auto"/></figure>
 
 
 
@@ -296,7 +296,7 @@ permalink: /el-euro-digital-vii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/woman-9038332_1280.png" alt="abrazar la privacidad euro digital" class="wp-image-2610" style="width:365px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/woman-9038332_1280.png" alt="abrazar la privacidad euro digital" class="wp-image-2610" style="width:365px;height:auto"/></figure>
 
 
 
@@ -348,7 +348,7 @@ permalink: /el-euro-digital-vii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/piggy-bank-2889042_1280.jpg" alt="" class="wp-image-2612" style="width:589px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/piggy-bank-2889042_1280.jpg" alt="" class="wp-image-2612" style="width:589px;height:auto"/></figure>
 
 
 

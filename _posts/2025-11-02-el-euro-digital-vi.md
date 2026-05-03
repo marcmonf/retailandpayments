@@ -28,7 +28,7 @@ permalink: /el-euro-digital-vi/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/euro-1605659_1280.jpg" alt="El euro digital navegando por europa" class="wp-image-2591" style="width:521px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/euro-1605659_1280.jpg" alt="El euro digital navegando por europa" class="wp-image-2591" style="width:521px;height:auto"/></figure>
 
 
 
@@ -112,7 +112,7 @@ permalink: /el-euro-digital-vi/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/euro-1672382_1280.jpg" alt="el euro digital un lobo con piel de cordero" class="wp-image-2592" style="width:690px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/euro-1672382_1280.jpg" alt="el euro digital un lobo con piel de cordero" class="wp-image-2592" style="width:690px;height:auto"/></figure>
 
 
 
@@ -160,7 +160,7 @@ permalink: /el-euro-digital-vi/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/puppet-3543246_1280.jpg" alt="la marioneta del ciudadano víctima del euro digital" class="wp-image-2593" style="width:414px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/puppet-3543246_1280.jpg" alt="la marioneta del ciudadano víctima del euro digital" class="wp-image-2593" style="width:414px;height:auto"/></figure>
 
 
 
@@ -208,7 +208,7 @@ permalink: /el-euro-digital-vi/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ai-generated-9068989_1280.png" alt="lo estás haciendo todo mal, josé luis" class="wp-image-2594" style="width:582px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ai-generated-9068989_1280.png" alt="lo estás haciendo todo mal, josé luis" class="wp-image-2594" style="width:582px;height:auto"/></figure>
 
 
 
@@ -258,7 +258,7 @@ permalink: /el-euro-digital-vi/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/privacy-9546078_1280.png" alt="el euro digital acaba con tu privacidad" class="wp-image-2596" style="width:489px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/privacy-9546078_1280.png" alt="el euro digital acaba con tu privacidad" class="wp-image-2596" style="width:489px;height:auto"/></figure>
 
 
 

@@ -68,7 +68,7 @@ permalink: /agentic-commerce/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/reaxionlab-ecommerce-1706103_1280.png" alt="El agentic commerce en una tienda ecommerce" class="wp-image-2686" style="width:506px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/reaxionlab-ecommerce-1706103_1280.png" alt="El agentic commerce en una tienda ecommerce" class="wp-image-2686" style="width:506px;height:auto"/></figure>
 
 
 
@@ -92,7 +92,7 @@ permalink: /agentic-commerce/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/lacasitadelaIA.png" alt="El Agentic Commerce comprando" class="wp-image-2683" style="width:540px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/lacasitadelaIA.png" alt="El Agentic Commerce comprando" class="wp-image-2683" style="width:540px;height:auto"/></figure>
 
 
 
@@ -144,7 +144,7 @@ permalink: /agentic-commerce/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ignartonosbg-visa-6947134_1280.jpg" alt="El Agentic Commerce con VISA Shared Payment Tokens" class="wp-image-2684" style="aspect-ratio:1.4992888417882142;width:541px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ignartonosbg-visa-6947134_1280.jpg" alt="El Agentic Commerce con VISA Shared Payment Tokens" class="wp-image-2684" style="aspect-ratio:1.4992888417882142;width:541px;height:auto"/></figure>
 
 
 
@@ -172,7 +172,7 @@ permalink: /agentic-commerce/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/deltaworks-artificial-intelligence-7768524_1280.jpg" alt="AI y su temazo" class="wp-image-2687" style="width:598px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/deltaworks-artificial-intelligence-7768524_1280.jpg" alt="AI y su temazo" class="wp-image-2687" style="width:598px;height:auto"/></figure>
 
 
 
@@ -232,7 +232,7 @@ permalink: /agentic-commerce/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/me-roban-los-datos-agentic-commerce.png" alt="me roban los datos agentic commerce" class="wp-image-2688" style="aspect-ratio:1.2945794302501987;width:526px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/me-roban-los-datos-agentic-commerce.png" alt="me roban los datos agentic commerce" class="wp-image-2688" style="aspect-ratio:1.2945794302501987;width:526px;height:auto"/></figure>
 
 
 
@@ -296,7 +296,7 @@ permalink: /agentic-commerce/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/tylijura-ai-generated-9776380_1280.jpg" alt="la IA alucinando" class="wp-image-2689" style="width:349px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/tylijura-ai-generated-9776380_1280.jpg" alt="la IA alucinando" class="wp-image-2689" style="width:349px;height:auto"/></figure>
 
 
 

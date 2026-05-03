@@ -80,7 +80,7 @@ permalink: /inclusion-financiera-pagos-retail-lowtech/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/market-3466906_1280.jpg" alt="Inclusión financiera con pagos invisibles en retail low-tech" class="wp-image-1894" style="width:516px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/market-3466906_1280.jpg" alt="Inclusión financiera con pagos invisibles en retail low-tech" class="wp-image-1894" style="width:516px;height:auto"/></figure>
 
 
 
@@ -134,7 +134,7 @@ permalink: /inclusion-financiera-pagos-retail-lowtech/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/rupee-4508945_1280.jpg" alt="Inclusión financiera con pagos invisibles en retail low-tech en la India" class="wp-image-1897" style="width:520px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/rupee-4508945_1280.jpg" alt="Inclusión financiera con pagos invisibles en retail low-tech en la India" class="wp-image-1897" style="width:520px;height:auto"/></figure>
 
 
 
@@ -182,7 +182,7 @@ permalink: /inclusion-financiera-pagos-retail-lowtech/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/store-906722_1280.jpg" alt="Inclusión financiera con pagos invisibles en retail low-tech en el entorno del specialty retail" class="wp-image-1898" style="width:603px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/store-906722_1280.jpg" alt="Inclusión financiera con pagos invisibles en retail low-tech en el entorno del specialty retail" class="wp-image-1898" style="width:603px;height:auto"/></figure>
 
 
 
@@ -216,7 +216,7 @@ permalink: /inclusion-financiera-pagos-retail-lowtech/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/spain-3645435_1280.jpg" alt="Inclusión financiera con pagos invisibles en retail low-tech en el área rural" class="wp-image-1896" style="width:632px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/spain-3645435_1280.jpg" alt="Inclusión financiera con pagos invisibles en retail low-tech en el área rural" class="wp-image-1896" style="width:632px;height:auto"/></figure>
 
 
 
@@ -262,7 +262,7 @@ permalink: /inclusion-financiera-pagos-retail-lowtech/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/tractor-385681_1280.jpg" alt="El pago en entornos rurales incluye iniciativas de pago que engloben a todos los actores" class="wp-image-1899" style="width:548px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/tractor-385681_1280.jpg" alt="El pago en entornos rurales incluye iniciativas de pago que engloben a todos los actores" class="wp-image-1899" style="width:548px;height:auto"/></figure>
 
 
 
@@ -306,7 +306,7 @@ permalink: /inclusion-financiera-pagos-retail-lowtech/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/city-trans-3332623_1280.jpg" alt="El ecosistema logístico puede ser una ayuda muy buena de cara a poder llegar a alcanzar esa capilaridad" class="wp-image-1900" style="width:507px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/city-trans-3332623_1280.jpg" alt="El ecosistema logístico puede ser una ayuda muy buena de cara a poder llegar a alcanzar esa capilaridad" class="wp-image-1900" style="width:507px;height:auto"/></figure>
 
 
 

@@ -88,7 +88,7 @@ permalink: /rp-news-07-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/meme-worldline-cae-fuerte.png" alt="" class="wp-image-2289" style="width:300px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/meme-worldline-cae-fuerte.png" alt="" class="wp-image-2289" style="width:300px;height:auto"/></figure>
 
 
 
@@ -124,7 +124,7 @@ permalink: /rp-news-07-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/meme-walmart-pescando-europeos.png" alt="" class="wp-image-2292" style="width:432px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/meme-walmart-pescando-europeos.png" alt="" class="wp-image-2292" style="width:432px;height:auto"/></figure>
 
 
 
@@ -148,7 +148,7 @@ permalink: /rp-news-07-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/meme-fintech-falsa-IA.png" alt="" class="wp-image-2295" style="width:407px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/meme-fintech-falsa-IA.png" alt="" class="wp-image-2295" style="width:407px;height:auto"/></figure>
 
 
 
@@ -180,7 +180,7 @@ permalink: /rp-news-07-sep-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/meme-lloyds-sube-precios.png" alt="" class="wp-image-2290" style="width:346px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/meme-lloyds-sube-precios.png" alt="" class="wp-image-2290" style="width:346px;height:auto"/></figure>
 
 
 

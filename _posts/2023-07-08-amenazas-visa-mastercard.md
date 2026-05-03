@@ -56,7 +56,7 @@ permalink: /amenazas-visa-mastercard/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://core.se/en/blog/card-schemes"><img src="/retailandpayments/assets/img/esquemas-locales.png" alt="Mapa de las amenazas de VISA y Mastercard" class="wp-image-1499" width="633" height="365"/></a><figcaption class="wp-element-caption">Fuente: core.se</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://core.se/en/blog/card-schemes"><img src="/assets/img/esquemas-locales.png" alt="Mapa de las amenazas de VISA y Mastercard" class="wp-image-1499" width="633" height="365"/></a><figcaption class="wp-element-caption">Fuente: core.se</figcaption></figure>
 
 
 
@@ -106,7 +106,7 @@ permalink: /amenazas-visa-mastercard/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0006.jpeg" alt="Las amenazas de VISA y Mastercard. Kaspi" class="wp-image-1506" width="553" height="345"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0006.jpeg" alt="Las amenazas de VISA y Mastercard. Kaspi" class="wp-image-1506" width="553" height="345"/></figure>
 
 
 
@@ -114,7 +114,7 @@ permalink: /amenazas-visa-mastercard/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Amenazas-visa-mastercard.png" alt="Kaspi" class="wp-image-1507" width="695" height="439"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Amenazas-visa-mastercard.png" alt="Kaspi" class="wp-image-1507" width="695" height="439"/></figure>
 
 
 
@@ -180,7 +180,7 @@ https://youtu.be/8WVfGbSex4E
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/IMG_0007.png" alt="Las amenazas de VISA y Mastercard. Transacciones totales RuPay. Fuente, PayTM Business" class="wp-image-1510" width="626" height="382"/><figcaption class="wp-element-caption">Fuente: <a href="https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/nov/doc20221116125801.pdf" target="_blank" rel="noreferrer noopener">Gov.in</a></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/IMG_0007.png" alt="Las amenazas de VISA y Mastercard. Transacciones totales RuPay. Fuente, PayTM Business" class="wp-image-1510" width="626" height="382"/><figcaption class="wp-element-caption">Fuente: <a href="https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/nov/doc20221116125801.pdf" target="_blank" rel="noreferrer noopener">Gov.in</a></figcaption></figure>
 
 
 
@@ -216,7 +216,7 @@ https://youtu.be/8WVfGbSex4E
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/IMG_0008.jpg" alt="MIR Payments, las amenazas de VISA y Mastercard" class="wp-image-1511" width="586" height="329"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/IMG_0008.jpg" alt="MIR Payments, las amenazas de VISA y Mastercard" class="wp-image-1511" width="586" height="329"/></figure>
 
 
 
@@ -292,7 +292,7 @@ https://youtu.be/8WVfGbSex4E
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0011.jpeg" alt="Esquemas locales. Tarjetas. Card payments. Amenazas. VISA Mastercard" class="wp-image-1518" width="475" height="316"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0011.jpeg" alt="Esquemas locales. Tarjetas. Card payments. Amenazas. VISA Mastercard" class="wp-image-1518" width="475" height="316"/></figure>
 
 
 

@@ -52,7 +52,7 @@ permalink: /airline-payments-volar/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/aircraft-1362586_1280.jpg" alt="Airline Payments: un desconocido que te hace volar. Avión. Airplane" class="wp-image-1350" width="501" height="315"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/aircraft-1362586_1280.jpg" alt="Airline Payments: un desconocido que te hace volar. Avión. Airplane" class="wp-image-1350" width="501" height="315"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /airline-payments-volar/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/airport-2373727_1280.jpg" alt="" class="wp-image-1356" width="506" height="337"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/airport-2373727_1280.jpg" alt="" class="wp-image-1356" width="506" height="337"/></figure>
 
 
 
@@ -186,7 +186,7 @@ permalink: /airline-payments-volar/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/travel-5219496_1280.jpg" alt="" class="wp-image-1357" width="539" height="345"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/travel-5219496_1280.jpg" alt="" class="wp-image-1357" width="539" height="345"/></figure>
 
 
 

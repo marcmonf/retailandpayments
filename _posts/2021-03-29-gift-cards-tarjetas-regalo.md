@@ -16,7 +16,7 @@ permalink: /gift-cards-tarjetas-regalo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized is-style-rounded"><img src="/retailandpayments/assets/img/Gift_cards_Spain.png" alt="Ejemplos de tarjetas regalo de España" class="wp-image-845" width="582" height="437"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized is-style-rounded"><img src="/assets/img/Gift_cards_Spain.png" alt="Ejemplos de tarjetas regalo de España" class="wp-image-845" width="582" height="437"/></figure>
 
 
 
@@ -48,7 +48,7 @@ permalink: /gift-cards-tarjetas-regalo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/coupons-580420.jpg" alt="" class="wp-image-846" width="576" height="432" title="discount coupons family check gift card tarjeta regalo"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/coupons-580420.jpg" alt="" class="wp-image-846" width="576" height="432" title="discount coupons family check gift card tarjeta regalo"/></figure>
 
 
 
@@ -114,7 +114,7 @@ permalink: /gift-cards-tarjetas-regalo/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized is-style-rounded"><img src="/retailandpayments/assets/img/IMG-20171129-WA0003.jpg" alt="tarjeta regalo gift card mall store grocery " class="wp-image-850" width="549" height="520"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized is-style-rounded"><img src="/assets/img/IMG-20171129-WA0003.jpg" alt="tarjeta regalo gift card mall store grocery " class="wp-image-850" width="549" height="520"/></figure>
 
 
 

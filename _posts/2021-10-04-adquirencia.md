@@ -28,7 +28,7 @@ permalink: /adquirencia/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/VinceMcMahonMoneyGIF.gif" alt="Adquirencia: cómo ganar dinero en el mundo de los pagos" class="wp-image-893" style="width:418px;height:235px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/VinceMcMahonMoneyGIF.gif" alt="Adquirencia: cómo ganar dinero en el mundo de los pagos" class="wp-image-893" style="width:418px;height:235px"/></figure>
 
 
 
@@ -76,7 +76,7 @@ permalink: /adquirencia/
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img src="/retailandpayments/assets/img/94EC158E-5476-496C-83EB-1BEE4FFD563C.jpeg" alt="" class="wp-image-922"/><figcaption class="wp-element-caption">Un maravilloso APOS A8 de Ingenico</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/assets/img/94EC158E-5476-496C-83EB-1BEE4FFD563C.jpeg" alt="" class="wp-image-922"/><figcaption class="wp-element-caption">Un maravilloso APOS A8 de Ingenico</figcaption></figure>
 
 
 
@@ -124,7 +124,7 @@ permalink: /adquirencia/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/windmills-4278679.jpg" alt="Adquirencia: cómo ganar dinero en el mundo de los pagos" class="wp-image-907" style="width:447px;height:279px"/><figcaption class="wp-element-caption">Muy de aquí</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/windmills-4278679.jpg" alt="Adquirencia: cómo ganar dinero en el mundo de los pagos" class="wp-image-907" style="width:447px;height:279px"/><figcaption class="wp-element-caption">Muy de aquí</figcaption></figure>
 
 
 
@@ -156,7 +156,7 @@ permalink: /adquirencia/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/farmland-801817.jpg" alt="Adquirencia: cómo ganar dinero en el mundo de los pagos" class="wp-image-906" style="width:427px;height:320px"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/farmland-801817.jpg" alt="Adquirencia: cómo ganar dinero en el mundo de los pagos" class="wp-image-906" style="width:427px;height:320px"/></figure>
 
 
 

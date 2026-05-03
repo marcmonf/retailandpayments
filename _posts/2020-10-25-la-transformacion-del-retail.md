@@ -40,7 +40,7 @@ permalink: /la-transformacion-del-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/supermarket-949913.jpg" alt="" class="wp-image-774" width="392" height="260"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/supermarket-949913.jpg" alt="" class="wp-image-774" width="392" height="260"/></figure>
 
 
 
@@ -78,7 +78,7 @@ permalink: /la-transformacion-del-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/berlin-1304370.jpg" alt="" class="wp-image-773" width="373" height="280"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/berlin-1304370.jpg" alt="" class="wp-image-773" width="373" height="280"/></figure>
 
 
 
@@ -106,7 +106,7 @@ permalink: /la-transformacion-del-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><a href="https://twitter.com/visualizevalue"><img src="/retailandpayments/assets/img/EksOJM1WkAM-TOE.jpg" alt="" class="wp-image-775" width="418" height="235"/></a><figcaption class="wp-element-caption">Easy choices, hard life. Hard choices, easy life. @visualizevalue</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="https://twitter.com/visualizevalue"><img src="/assets/img/EksOJM1WkAM-TOE.jpg" alt="" class="wp-image-775" width="418" height="235"/></a><figcaption class="wp-element-caption">Easy choices, hard life. Hard choices, easy life. @visualizevalue</figcaption></figure>
 
 
 
@@ -122,7 +122,7 @@ permalink: /la-transformacion-del-retail/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/truck-2677373-1.jpg" alt="" class="wp-image-783" width="385" height="256"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/truck-2677373-1.jpg" alt="" class="wp-image-783" width="385" height="256"/></figure>
 
 
 

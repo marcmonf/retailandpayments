@@ -52,7 +52,7 @@ permalink: /bnpl-reinvencion-credito/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/woman-3040029_1920.jpg" alt="Es el BNPL una reinvención del crédito al consumo. Mujer compras. Tarjeta crédito." class="wp-image-1330" width="419" height="280"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/woman-3040029_1920.jpg" alt="Es el BNPL una reinvención del crédito al consumo. Mujer compras. Tarjeta crédito." class="wp-image-1330" width="419" height="280"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /bnpl-reinvencion-credito/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/approved-1049259.png" alt="Es el BNPL una reinvención del crédito al consumo. Crédito. Consumo. Tarjeta" class="wp-image-1333" width="376" height="249"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/approved-1049259.png" alt="Es el BNPL una reinvención del crédito al consumo. Crédito. Consumo. Tarjeta" class="wp-image-1333" width="376" height="249"/></figure>
 
 
 
@@ -156,7 +156,7 @@ permalink: /bnpl-reinvencion-credito/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ciclos-economicos.png" alt="Es el BNPL una reinvención del crédito al consumo. Ciclo Económico." class="wp-image-1335" width="502" height="270"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ciclos-economicos.png" alt="Es el BNPL una reinvención del crédito al consumo. Ciclo Económico." class="wp-image-1335" width="502" height="270"/></figure>
 
 
 
@@ -228,7 +228,7 @@ permalink: /bnpl-reinvencion-credito/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/shopping-2735735-1.jpg" alt="Es el BNPL una reinvención del crédito al consumo. Crédito. Compras. Tarjeta" class="wp-image-1336" width="454" height="293"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/shopping-2735735-1.jpg" alt="Es el BNPL una reinvención del crédito al consumo. Crédito. Compras. Tarjeta" class="wp-image-1336" width="454" height="293"/></figure>
 
 
 
@@ -284,7 +284,7 @@ permalink: /bnpl-reinvencion-credito/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/online-2900303_1920.jpg" alt="Es el BNPL una reinvención del crédito al consumo. Crédito. Compras. Amazon. Tarjeta de crédito." class="wp-image-1338" width="423" height="282"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/online-2900303_1920.jpg" alt="Es el BNPL una reinvención del crédito al consumo. Crédito. Compras. Amazon. Tarjeta de crédito." class="wp-image-1338" width="423" height="282"/></figure>
 
 
 
@@ -320,7 +320,7 @@ permalink: /bnpl-reinvencion-credito/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/no-money-2070384.jpg" alt="Es el BNPL una reinvención del crédito al consumo. Sin dinero. Crédito. Tarjeta. Compras" class="wp-image-1332" width="428" height="240"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/no-money-2070384.jpg" alt="Es el BNPL una reinvención del crédito al consumo. Sin dinero. Crédito. Tarjeta. Compras" class="wp-image-1332" width="428" height="240"/></figure>
 
 
 

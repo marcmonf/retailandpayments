@@ -64,7 +64,7 @@ permalink: /reparacion-tpvs-entrevista-angel-alonso/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_9570.jpeg" alt="Ángel Alonso Director Técnico en Servicio 10" class="wp-image-1603" style="aspect-ratio:0.75;width:364px;height:auto"/><figcaption class="wp-element-caption">Ángel Alonso, Director Técnico de Servicio10</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_9570.jpeg" alt="Ángel Alonso Director Técnico en Servicio 10" class="wp-image-1603" style="aspect-ratio:0.75;width:364px;height:auto"/><figcaption class="wp-element-caption">Ángel Alonso, Director Técnico de Servicio10</figcaption></figure>
 
 
 
@@ -92,7 +92,7 @@ permalink: /reparacion-tpvs-entrevista-angel-alonso/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/microscopio-digital-move-5000.jpg" alt="Reparación de TPVs. Placa Move 5000 de Ingenico al microscopio digital" class="wp-image-1605" style="aspect-ratio:1;width:440px;height:auto"/><figcaption class="wp-element-caption">Microscopio digital en Servicio10</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/microscopio-digital-move-5000.jpg" alt="Reparación de TPVs. Placa Move 5000 de Ingenico al microscopio digital" class="wp-image-1605" style="aspect-ratio:1;width:440px;height:auto"/><figcaption class="wp-element-caption">Microscopio digital en Servicio10</figcaption></figure>
 
 
 
@@ -128,7 +128,7 @@ permalink: /reparacion-tpvs-entrevista-angel-alonso/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/medicion-tension-move-5000.jpg" alt="Reparación de TPVs. Medición de la tensión en un Move 5000 de Ingenico" class="wp-image-1606" style="aspect-ratio:1;width:510px;height:auto"/><figcaption class="wp-element-caption">Medición de la tensión en un terminal de pago</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/medicion-tension-move-5000.jpg" alt="Reparación de TPVs. Medición de la tensión en un Move 5000 de Ingenico" class="wp-image-1606" style="aspect-ratio:1;width:510px;height:auto"/><figcaption class="wp-element-caption">Medición de la tensión en un terminal de pago</figcaption></figure>
 
 
 
@@ -152,7 +152,7 @@ permalink: /reparacion-tpvs-entrevista-angel-alonso/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Laboratorio-S10_5.jpg" alt="Reparación de TPVs. Sustitución Micro BGA Move 5000 de Ingenico" class="wp-image-1611" style="aspect-ratio:0.75;width:417px;height:auto"/><figcaption class="wp-element-caption">Sustitución Micro BGA de un TPV</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Laboratorio-S10_5.jpg" alt="Reparación de TPVs. Sustitución Micro BGA Move 5000 de Ingenico" class="wp-image-1611" style="aspect-ratio:0.75;width:417px;height:auto"/><figcaption class="wp-element-caption">Sustitución Micro BGA de un TPV</figcaption></figure>
 
 
 
@@ -180,7 +180,7 @@ permalink: /reparacion-tpvs-entrevista-angel-alonso/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/medicion-temperatura-iWL.jpg" alt="Reparación de TPVs. Medición temperatura anómala Ingenico iWL281" class="wp-image-1607" style="aspect-ratio:0.9636135508155583;width:517px;height:auto"/><figcaption class="wp-element-caption">Medición temperatura anómala de un microprocesador</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/medicion-temperatura-iWL.jpg" alt="Reparación de TPVs. Medición temperatura anómala Ingenico iWL281" class="wp-image-1607" style="aspect-ratio:0.9636135508155583;width:517px;height:auto"/><figcaption class="wp-element-caption">Medición temperatura anómala de un microprocesador</figcaption></figure>
 
 
 
@@ -200,7 +200,7 @@ permalink: /reparacion-tpvs-entrevista-angel-alonso/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Laboratorio-S10_2.jpg" alt="Laboratorio Servicio 10. Reparación de TPVs" class="wp-image-1608" style="aspect-ratio:1.3333333333333333;width:571px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Laboratorio-S10_2.jpg" alt="Laboratorio Servicio 10. Reparación de TPVs" class="wp-image-1608" style="aspect-ratio:1.3333333333333333;width:571px;height:auto"/></figure>
 
 
 
@@ -224,7 +224,7 @@ permalink: /reparacion-tpvs-entrevista-angel-alonso/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Laboratorio-S10_4.jpg" alt="Lane 3000 y Lane 5000 de Ingenico" class="wp-image-1609" style="aspect-ratio:1.3333333333333333;width:548px;height:auto"/><figcaption class="wp-element-caption">Lane 3000 y Lane 5000 de Ingenico</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Laboratorio-S10_4.jpg" alt="Lane 3000 y Lane 5000 de Ingenico" class="wp-image-1609" style="aspect-ratio:1.3333333333333333;width:548px;height:auto"/><figcaption class="wp-element-caption">Lane 3000 y Lane 5000 de Ingenico</figcaption></figure>
 
 
 
@@ -252,7 +252,7 @@ permalink: /reparacion-tpvs-entrevista-angel-alonso/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Laboratorio-S10.jpg" alt="Laboratorio Servicio 10. Reparación de TPVs" class="wp-image-1610" style="aspect-ratio:1.3333333333333333;width:568px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Laboratorio-S10.jpg" alt="Laboratorio Servicio 10. Reparación de TPVs" class="wp-image-1610" style="aspect-ratio:1.3333333333333333;width:568px;height:auto"/></figure>
 
 
 

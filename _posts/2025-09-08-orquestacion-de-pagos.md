@@ -48,7 +48,7 @@ permalink: /orquestacion-de-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/sorry-will-ferrel.gif" alt="orquestación de pagos" class="wp-image-2299" style="width:572px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/sorry-will-ferrel.gif" alt="orquestación de pagos" class="wp-image-2299" style="width:572px;height:auto"/></figure>
 
 
 
@@ -96,7 +96,7 @@ permalink: /orquestacion-de-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/artax-i-love-you.gif" alt="orquestación de pagos, la historia interminable" class="wp-image-2301" style="width:548px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/artax-i-love-you.gif" alt="orquestación de pagos, la historia interminable" class="wp-image-2301" style="width:548px;height:auto"/></figure>
 
 
 
@@ -140,7 +140,7 @@ permalink: /orquestacion-de-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/conductor-5157153_1280.jpg" alt="orquestación de pagos, el director de orquesta" class="wp-image-2305" style="width:562px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/conductor-5157153_1280.jpg" alt="orquestación de pagos, el director de orquesta" class="wp-image-2305" style="width:562px;height:auto"/></figure>
 
 
 
@@ -196,7 +196,7 @@ permalink: /orquestacion-de-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/mistake-1966448_1280.jpg" alt="orquestación de pagos, me equivoqué" class="wp-image-2306" style="width:559px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/mistake-1966448_1280.jpg" alt="orquestación de pagos, me equivoqué" class="wp-image-2306" style="width:559px;height:auto"/></figure>
 
 
 
@@ -256,7 +256,7 @@ permalink: /orquestacion-de-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/switch-3297900_1280.jpg" alt="switch orquestación de pagos" class="wp-image-2307" style="width:561px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/switch-3297900_1280.jpg" alt="switch orquestación de pagos" class="wp-image-2307" style="width:561px;height:auto"/></figure>
 
 
 

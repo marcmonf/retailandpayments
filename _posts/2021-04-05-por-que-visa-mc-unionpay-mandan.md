@@ -44,7 +44,7 @@ permalink: /por-que-visa-mc-unionpay-mandan/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/all-schemes-logos.png" alt="Logos esquemas ecosistema de pagos" class="wp-image-853" width="406" height="308"/><figcaption class="wp-element-caption">Card Schemes Logos</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/all-schemes-logos.png" alt="Logos esquemas ecosistema de pagos" class="wp-image-853" width="406" height="308"/><figcaption class="wp-element-caption">Card Schemes Logos</figcaption></figure>
 
 
 
@@ -72,7 +72,7 @@ permalink: /por-que-visa-mc-unionpay-mandan/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/46196_lg.jpeg" alt="tarjeta UATP" class="wp-image-854" width="326" height="346"/><figcaption class="wp-element-caption">Air Travel Card</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/46196_lg.jpeg" alt="tarjeta UATP" class="wp-image-854" width="326" height="346"/><figcaption class="wp-element-caption">Air Travel Card</figcaption></figure>
 
 
 
@@ -100,7 +100,7 @@ permalink: /por-que-visa-mc-unionpay-mandan/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/AMEX.png" alt="logo amex ecosistema de pagos" class="wp-image-867" width="126" height="149"/><figcaption class="wp-element-caption">Centurion</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/AMEX.png" alt="logo amex ecosistema de pagos" class="wp-image-867" width="126" height="149"/><figcaption class="wp-element-caption">Centurion</figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@ permalink: /por-que-visa-mc-unionpay-mandan/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/5D729DBE-5E0A-4CED-8820-6A55FBD30549.png" alt="Logo BankAmericard. VISA" class="wp-image-863" width="394" height="221"/><figcaption class="wp-element-caption">BankAmericard germen de VISA</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/5D729DBE-5E0A-4CED-8820-6A55FBD30549.png" alt="Logo BankAmericard. VISA" class="wp-image-863" width="394" height="221"/><figcaption class="wp-element-caption">BankAmericard germen de VISA</figcaption></figure>
 
 
 
@@ -148,7 +148,7 @@ permalink: /por-que-visa-mc-unionpay-mandan/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/349C3943-D285-40EB-9AB6-A472D3E2A326.jpeg" alt="Terminal MPOS ecosistema de pagos" class="wp-image-864" width="398" height="360"/><figcaption class="wp-element-caption">Ingenico Jack NFC reader con ApplePay</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/349C3943-D285-40EB-9AB6-A472D3E2A326.jpeg" alt="Terminal MPOS ecosistema de pagos" class="wp-image-864" width="398" height="360"/><figcaption class="wp-element-caption">Ingenico Jack NFC reader con ApplePay</figcaption></figure>
 
 
 
@@ -176,7 +176,7 @@ permalink: /por-que-visa-mc-unionpay-mandan/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Share-of-Purchase-Volume-worldwide-by-card-scheme.jpg" alt="Distribución de los esquemas en el ecosistema de pagos" class="wp-image-868" width="326" height="406"/><figcaption class="wp-element-caption">Market share mundial de los esquemas de pago en 2019</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Share-of-Purchase-Volume-worldwide-by-card-scheme.jpg" alt="Distribución de los esquemas en el ecosistema de pagos" class="wp-image-868" width="326" height="406"/><figcaption class="wp-element-caption">Market share mundial de los esquemas de pago en 2019</figcaption></figure>
 
 
 
@@ -252,7 +252,7 @@ permalink: /por-que-visa-mc-unionpay-mandan/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/cropped-pci-dss-1.png" alt="Logo PCI DSS" class="wp-image-871" width="365" height="243"/><figcaption class="wp-element-caption">PCI DSS</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/cropped-pci-dss-1.png" alt="Logo PCI DSS" class="wp-image-871" width="365" height="243"/><figcaption class="wp-element-caption">PCI DSS</figcaption></figure>
 
 
 
@@ -352,7 +352,7 @@ permalink: /por-que-visa-mc-unionpay-mandan/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/logo_nexo_0-1.png" alt="Nexo en el ecosistema de pagos" class="wp-image-873" width="314" height="99"/><figcaption class="wp-element-caption">nexo Standards</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/logo_nexo_0-1.png" alt="Nexo en el ecosistema de pagos" class="wp-image-873" width="314" height="99"/><figcaption class="wp-element-caption">nexo Standards</figcaption></figure>
 
 
 

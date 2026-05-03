@@ -104,7 +104,7 @@ permalink: /importancia-product-manager-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/backpacker-772991_1920.jpg" alt="La importancia del Product Manager en los medios de pago estriba en tener una visión estratégica." class="wp-image-1661" style="aspect-ratio:1.946768060836502;width:504px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/backpacker-772991_1920.jpg" alt="La importancia del Product Manager en los medios de pago estriba en tener una visión estratégica." class="wp-image-1661" style="aspect-ratio:1.946768060836502;width:504px;height:auto"/></figure>
 
 
 
@@ -144,7 +144,7 @@ permalink: /importancia-product-manager-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/startup-594090_1920.jpg" alt="La importancia del product manager en los medios de pago tiene que ver con el trabajo en equipo" class="wp-image-1663" style="aspect-ratio:1.499267935578331;width:465px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/startup-594090_1920.jpg" alt="La importancia del product manager en los medios de pago tiene que ver con el trabajo en equipo" class="wp-image-1663" style="aspect-ratio:1.499267935578331;width:465px;height:auto"/></figure>
 
 
 
@@ -196,7 +196,7 @@ permalink: /importancia-product-manager-medios-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ensemble-619258_1280.jpg" alt="La importancia del Product Manager en los medios de pago es como un director de orquesta" class="wp-image-1665" style="aspect-ratio:1.501466275659824;width:508px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ensemble-619258_1280.jpg" alt="La importancia del Product Manager en los medios de pago es como un director de orquesta" class="wp-image-1665" style="aspect-ratio:1.501466275659824;width:508px;height:auto"/></figure>
 
 
 

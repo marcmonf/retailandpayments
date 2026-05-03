@@ -84,7 +84,7 @@ permalink: /pasarela-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/que-es-una-pasarela-de-pago.jpg" alt="Que es una pasarela de pago" class="wp-image-1213" width="534" height="356"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/que-es-una-pasarela-de-pago.jpg" alt="Que es una pasarela de pago" class="wp-image-1213" width="534" height="356"/></figure>
 
 
 
@@ -108,7 +108,7 @@ permalink: /pasarela-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/garantizado.jpg" alt="qué es una pasarela de pago" class="wp-image-1214" width="242" height="182"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/garantizado.jpg" alt="qué es una pasarela de pago" class="wp-image-1214" width="242" height="182"/></figure>
 
 
 
@@ -176,7 +176,7 @@ permalink: /pasarela-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/e-commerce-2897798_1920.png" alt="qué es una pasarela de pago" class="wp-image-1215" width="300" height="300"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/e-commerce-2897798_1920.png" alt="qué es una pasarela de pago" class="wp-image-1215" width="300" height="300"/></figure>
 
 
 
@@ -232,7 +232,7 @@ permalink: /pasarela-de-pago/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/ecommerce-2140604_1280.jpg" alt="pasarela de pago" class="wp-image-1219" width="438" height="191"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/ecommerce-2140604_1280.jpg" alt="pasarela de pago" class="wp-image-1219" width="438" height="191"/></figure>
 
 
 

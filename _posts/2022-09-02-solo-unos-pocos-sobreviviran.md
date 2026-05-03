@@ -48,7 +48,7 @@ permalink: /solo-unos-pocos-sobreviviran/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/flame-1100912_1920.jpg" alt="Cerilla que se enciende. Solo unos pocos sobrevivirán" class="wp-image-1124" style="width:449px;height:299px"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/flame-1100912_1920.jpg" alt="Cerilla que se enciende. Solo unos pocos sobrevivirán" class="wp-image-1124" style="width:449px;height:299px"/></figure>
 
 
 
@@ -120,7 +120,7 @@ permalink: /solo-unos-pocos-sobreviviran/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/digital_transformation.jpg" alt="Digital transformation. Solo unos pocos sobrevivirán." class="wp-image-1129" style="width:470px;height:313px"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/digital_transformation.jpg" alt="Digital transformation. Solo unos pocos sobrevivirán." class="wp-image-1129" style="width:470px;height:313px"/></figure>
 
 
 
@@ -268,7 +268,7 @@ permalink: /solo-unos-pocos-sobreviviran/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/open_retail_fridge.jpg" alt="open retail fridge. Solo unos pocos sobrevivirán" class="wp-image-1133" style="width:514px;height:265px"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/open_retail_fridge.jpg" alt="open retail fridge. Solo unos pocos sobrevivirán" class="wp-image-1133" style="width:514px;height:265px"/></figure>
 
 
 
@@ -276,7 +276,7 @@ permalink: /solo-unos-pocos-sobreviviran/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/retail_fridge_corner.jpg" alt="closed retail fridge corner. Solo unos pocos sobrevivirán" class="wp-image-1134" style="width:364px;height:455px"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/retail_fridge_corner.jpg" alt="closed retail fridge corner. Solo unos pocos sobrevivirán" class="wp-image-1134" style="width:364px;height:455px"/></figure>
 
 
 

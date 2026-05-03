@@ -68,7 +68,7 @@ permalink: /stablecoin-retailers-europa/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/crypto-market-outlook.png" alt="" class="wp-image-2235" style="width:552px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/crypto-market-outlook.png" alt="" class="wp-image-2235" style="width:552px;height:auto"/></figure>
 
 
 
@@ -130,7 +130,7 @@ permalink: /stablecoin-retailers-europa/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/woman-8130372_1280.jpg" alt="stablecoin para retailers en Europa" class="wp-image-2242" style="width:560px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/woman-8130372_1280.jpg" alt="stablecoin para retailers en Europa" class="wp-image-2242" style="width:560px;height:auto"/></figure>
 
 
 
@@ -200,7 +200,7 @@ permalink: /stablecoin-retailers-europa/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/apparel-1850804_1280.jpg" alt="stablecoin para retailers en Europa" class="wp-image-2246" style="width:568px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/apparel-1850804_1280.jpg" alt="stablecoin para retailers en Europa" class="wp-image-2246" style="width:568px;height:auto"/></figure>
 
 
 
@@ -256,7 +256,7 @@ permalink: /stablecoin-retailers-europa/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/madrid-4461465_1280.jpg" alt="cambiaria el retail de Madrid con una stablecoin para retailers en Europa" class="wp-image-2251" style="width:619px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/madrid-4461465_1280.jpg" alt="cambiaria el retail de Madrid con una stablecoin para retailers en Europa" class="wp-image-2251" style="width:619px;height:auto"/></figure>
 
 
 
@@ -290,7 +290,7 @@ permalink: /stablecoin-retailers-europa/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/european-union-6405066_1280.jpg" alt="stablecoin para retailers en Europa para luchar contra el euro digital" class="wp-image-2253" style="width:565px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/european-union-6405066_1280.jpg" alt="stablecoin para retailers en Europa para luchar contra el euro digital" class="wp-image-2253" style="width:565px;height:auto"/></figure>
 
 
 

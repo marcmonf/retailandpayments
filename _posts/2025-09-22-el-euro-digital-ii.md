@@ -44,7 +44,7 @@ permalink: /el-euro-digital-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Universidad-Rey-Juan-Carlos.jpg" alt="Universidad Rey Juan Carlos Derecho Euro Digital" class="wp-image-2409" style="width:515px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Universidad-Rey-Juan-Carlos.jpg" alt="Universidad Rey Juan Carlos Derecho Euro Digital" class="wp-image-2409" style="width:515px;height:auto"/></figure>
 
 
 
@@ -108,7 +108,7 @@ permalink: /el-euro-digital-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/money-496229_1280.jpg" alt="euro digital" class="wp-image-2411" style="width:527px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/money-496229_1280.jpg" alt="euro digital" class="wp-image-2411" style="width:527px;height:auto"/></figure>
 
 
 
@@ -160,7 +160,7 @@ permalink: /el-euro-digital-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/hayek.webp" alt="euro digital y Friedrich Hayek" class="wp-image-2407" style="width:374px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/hayek.webp" alt="euro digital y Friedrich Hayek" class="wp-image-2407" style="width:374px;height:auto"/></figure>
 
 
 
@@ -212,7 +212,7 @@ permalink: /el-euro-digital-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/girl-3030737_1280.jpg" alt="Libertad Euro Digital" class="wp-image-2413" style="width:611px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/girl-3030737_1280.jpg" alt="Libertad Euro Digital" class="wp-image-2413" style="width:611px;height:auto"/></figure>
 
 
 
@@ -326,7 +326,7 @@ https://www.youtube.com/live/oB59rfppxu8?si=MD7t5soKyLLoenar
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/money-515058_1280.jpg" alt="MMT modern monetary theory" class="wp-image-2415" style="width:541px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/money-515058_1280.jpg" alt="MMT modern monetary theory" class="wp-image-2415" style="width:541px;height:auto"/></figure>
 
 
 
@@ -392,7 +392,7 @@ https://www.youtube.com/live/oB59rfppxu8?si=MD7t5soKyLLoenar
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/no-money-2070384_1280.jpg" alt="consecuencias del euro digital" class="wp-image-2417" style="width:547px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/no-money-2070384_1280.jpg" alt="consecuencias del euro digital" class="wp-image-2417" style="width:547px;height:auto"/></figure>
 
 
 

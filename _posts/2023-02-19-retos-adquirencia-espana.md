@@ -64,7 +64,7 @@ permalink: /retos-adquirencia-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/valencia-2450633.jpg" alt="" class="wp-image-1288" style="width:506px;height:760px"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/valencia-2450633.jpg" alt="" class="wp-image-1288" style="width:506px;height:760px"/></figure>
 
 
 
@@ -104,7 +104,7 @@ permalink: /retos-adquirencia-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img src="/retailandpayments/assets/img/por-que-Mourinho.gif" alt="retos de la adquirencia en España. Por qué Mourinho" class="wp-image-1287"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/assets/img/por-que-Mourinho.gif" alt="retos de la adquirencia en España. Por qué Mourinho" class="wp-image-1287"/></figure>
 
 
 
@@ -168,7 +168,7 @@ permalink: /retos-adquirencia-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/mount-fuji-1346096.jpg" alt="retos de la adquirencia en España. Monte Fuji Japón" class="wp-image-1289" style="width:620px;height:413px"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/mount-fuji-1346096.jpg" alt="retos de la adquirencia en España. Monte Fuji Japón" class="wp-image-1289" style="width:620px;height:413px"/></figure>
 
 
 

@@ -64,7 +64,7 @@ permalink: /el-euro-digital-viii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/geralt-euros-5632480_1280.jpg" alt="el euro digital" class="wp-image-2659" style="width:532px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/geralt-euros-5632480_1280.jpg" alt="el euro digital" class="wp-image-2659" style="width:532px;height:auto"/></figure>
 
 
 
@@ -100,7 +100,7 @@ permalink: /el-euro-digital-viii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/geralt-tiktok-7628422_1280.jpg" alt="el euro digital" class="wp-image-2660" style="aspect-ratio:2.5;width:643px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/geralt-tiktok-7628422_1280.jpg" alt="el euro digital" class="wp-image-2660" style="aspect-ratio:2.5;width:643px;height:auto"/></figure>
 
 
 
@@ -142,7 +142,7 @@ permalink: /el-euro-digital-viii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/tumisu-euro-7317266_1280.jpg" alt="" class="wp-image-2662" style="width:559px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/tumisu-euro-7317266_1280.jpg" alt="" class="wp-image-2662" style="width:559px;height:auto"/></figure>
 
 
 
@@ -166,7 +166,7 @@ permalink: /el-euro-digital-viii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/moritz320-euro-1994098_1920.jpg" alt="imagen del euro en bruselas" class="wp-image-2661" style="width:440px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/moritz320-euro-1994098_1920.jpg" alt="imagen del euro en bruselas" class="wp-image-2661" style="width:440px;height:auto"/></figure>
 
 
 

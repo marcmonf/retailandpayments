@@ -80,7 +80,7 @@ permalink: /gift-cards-tarjetas-regalo-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/app-1013616_1920.jpg" alt="" class="wp-image-1080" width="312" height="214"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/app-1013616_1920.jpg" alt="" class="wp-image-1080" width="312" height="214"/></figure>
 
 
 
@@ -108,7 +108,7 @@ permalink: /gift-cards-tarjetas-regalo-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/apple-1086441_1920.jpg" alt="Apple iTunes Gift Cards" class="wp-image-1083" width="412" height="309"/><figcaption class="wp-element-caption">Apple iTunes Gift Cards</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/apple-1086441_1920.jpg" alt="Apple iTunes Gift Cards" class="wp-image-1083" width="412" height="309"/><figcaption class="wp-element-caption">Apple iTunes Gift Cards</figcaption></figure>
 
 
 
@@ -136,7 +136,7 @@ permalink: /gift-cards-tarjetas-regalo-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Blackhawk_Network_Holdings_Logo.png" alt="" class="wp-image-1087" width="377" height="86"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Blackhawk_Network_Holdings_Logo.png" alt="" class="wp-image-1087" width="377" height="86"/></figure>
 
 
 
@@ -198,7 +198,7 @@ permalink: /gift-cards-tarjetas-regalo-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/InComm_Logo.png" alt="" class="wp-image-1088" width="339" height="147"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/InComm_Logo.png" alt="" class="wp-image-1088" width="339" height="147"/></figure>
 
 
 
@@ -262,7 +262,7 @@ permalink: /gift-cards-tarjetas-regalo-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/010621-featured-images-epay.jpg" alt="" class="wp-image-1086" width="496" height="258"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/010621-featured-images-epay.jpg" alt="" class="wp-image-1086" width="496" height="258"/></figure>
 
 
 
@@ -286,7 +286,7 @@ permalink: /gift-cards-tarjetas-regalo-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/BC327C27-F9E6-4B28-8886-C004990ABCF1.jpeg" alt="" class="wp-image-1102" width="576" height="432"/><figcaption class="wp-element-caption">Oficinas centrales de epay en Kansas</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/BC327C27-F9E6-4B28-8886-C004990ABCF1.jpeg" alt="" class="wp-image-1102" width="576" height="432"/><figcaption class="wp-element-caption">Oficinas centrales de epay en Kansas</figcaption></figure>
 
 
 
@@ -306,7 +306,7 @@ permalink: /gift-cards-tarjetas-regalo-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/6079F266-D40B-43A6-A852-2FE74F63B264.jpeg" alt="" class="wp-image-1103" width="533" height="711"/><figcaption class="wp-element-caption">Oficinas centrales de Euronet Worldwide en Kansas</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/6079F266-D40B-43A6-A852-2FE74F63B264.jpeg" alt="" class="wp-image-1103" width="533" height="711"/><figcaption class="wp-element-caption">Oficinas centrales de Euronet Worldwide en Kansas</figcaption></figure>
 
 
 
@@ -322,7 +322,7 @@ permalink: /gift-cards-tarjetas-regalo-ii/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/247FF852-EE90-405A-859E-B6A53036FA8E.jpeg" alt="" class="wp-image-1099" width="548" height="411"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/247FF852-EE90-405A-859E-B6A53036FA8E.jpeg" alt="" class="wp-image-1099" width="548" height="411"/></figure>
 
 
 

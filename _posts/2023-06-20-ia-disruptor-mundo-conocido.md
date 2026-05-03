@@ -24,7 +24,7 @@ permalink: /ia-disruptor-mundo-conocido/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/6BD48380-34AC-4E8A-BA56-F8E8AEF75FE1.jpeg" alt="la #IA es el nuevo disruptor del mundo conocido. Inteligencia artificial" class="wp-image-1472" width="502" height="334"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/6BD48380-34AC-4E8A-BA56-F8E8AEF75FE1.jpeg" alt="la #IA es el nuevo disruptor del mundo conocido. Inteligencia artificial" class="wp-image-1472" width="502" height="334"/></figure>
 
 
 
@@ -102,7 +102,7 @@ permalink: /ia-disruptor-mundo-conocido/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/circuit-board-2528363_1920.jpg" alt="la #IA es el nuevo disruptor del mundo conocido. Inteligencia Artificial" class="wp-image-1476" width="562" height="262"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/circuit-board-2528363_1920.jpg" alt="la #IA es el nuevo disruptor del mundo conocido. Inteligencia Artificial" class="wp-image-1476" width="562" height="262"/></figure>
 
 
 
@@ -252,7 +252,7 @@ permalink: /ia-disruptor-mundo-conocido/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/technology-7111795_1920.jpg" alt="la #IA es el nuevo disruptor del mundo conocido. Tecnologia. Inteligencia artificial." class="wp-image-1484" width="549" height="331"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/technology-7111795_1920.jpg" alt="la #IA es el nuevo disruptor del mundo conocido. Tecnologia. Inteligencia artificial." class="wp-image-1484" width="549" height="331"/></figure>
 
 
 
@@ -312,7 +312,7 @@ permalink: /ia-disruptor-mundo-conocido/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/workers-5246634_1920.jpg" alt="la #IA es el nuevo disruptor del mundo conocido. Logística Inteligencia Artificial" class="wp-image-1482" width="517" height="314"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/workers-5246634_1920.jpg" alt="la #IA es el nuevo disruptor del mundo conocido. Logística Inteligencia Artificial" class="wp-image-1482" width="517" height="314"/></figure>
 
 
 

@@ -52,7 +52,7 @@ permalink: /el-ocaso-de-la-psd2-se-acerca-llega-la-psd3/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/the-european-parliament-in-strasbourg-5180626_1920.jpg" alt="Ocaso de la PSD2. Parlamento Europeo" class="wp-image-1583" style="aspect-ratio:1.3333333333333333;width:454px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/the-european-parliament-in-strasbourg-5180626_1920.jpg" alt="Ocaso de la PSD2. Parlamento Europeo" class="wp-image-1583" style="aspect-ratio:1.3333333333333333;width:454px;height:auto"/></figure>
 
 
 
@@ -102,7 +102,7 @@ permalink: /el-ocaso-de-la-psd2-se-acerca-llega-la-psd3/
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="/retailandpayments/assets/img/sign-1086703_1280.png" alt="" class="wp-image-1116 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="/assets/img/sign-1086703_1280.png" alt="" class="wp-image-1116 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Algo que sólo tú sabes</p>
 </div></div>
 
@@ -112,7 +112,7 @@ permalink: /el-ocaso-de-la-psd2-se-acerca-llega-la-psd3/
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="/retailandpayments/assets/img/person-1824144_1280.png" alt="" class="wp-image-1117 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="/assets/img/person-1824144_1280.png" alt="" class="wp-image-1117 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Algo que sólo tú eres</p>
 </div></div>
 
@@ -122,7 +122,7 @@ permalink: /el-ocaso-de-la-psd2-se-acerca-llega-la-psd3/
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="/retailandpayments/assets/img/smartphone-1132677_1280.png" alt="" class="wp-image-1114 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="/assets/img/smartphone-1132677_1280.png" alt="" class="wp-image-1114 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Algo que sólo tú tienes</p>
 </div></div>
 
@@ -148,7 +148,7 @@ permalink: /el-ocaso-de-la-psd2-se-acerca-llega-la-psd3/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/credit-2762536_1280.jpg" alt="El ocaso de la PSD2 se acerca. Llega la PSD3. Pago. Payment" class="wp-image-1586" style="aspect-ratio:1.501466275659824;width:448px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/credit-2762536_1280.jpg" alt="El ocaso de la PSD2 se acerca. Llega la PSD3. Pago. Payment" class="wp-image-1586" style="aspect-ratio:1.501466275659824;width:448px;height:auto"/></figure>
 
 
 
@@ -202,7 +202,7 @@ permalink: /el-ocaso-de-la-psd2-se-acerca-llega-la-psd3/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/iphone-2735443_1280.jpg" alt="el ocaso de la PSD2 se acerca. Llega la PSD3" class="wp-image-1587" style="aspect-ratio:1.501466275659824;width:420px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/iphone-2735443_1280.jpg" alt="el ocaso de la PSD2 se acerca. Llega la PSD3" class="wp-image-1587" style="aspect-ratio:1.501466275659824;width:420px;height:auto"/></figure>
 
 
 

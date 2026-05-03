@@ -44,7 +44,7 @@ permalink: /rp-news-18-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/cGh5LmdpZg.gif" alt="La seguridad en los pagos es fundamental" class="wp-image-2077" style="width:396px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/cGh5LmdpZg.gif" alt="La seguridad en los pagos es fundamental" class="wp-image-2077" style="width:396px;height:auto"/></figure>
 
 
 
@@ -92,7 +92,7 @@ permalink: /rp-news-18-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/33571013-edited.jpg" alt="China y USA pegándose por saber quién paga la fiesta. Pagos" class="wp-image-2079" style="width:474px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/33571013-edited.jpg" alt="China y USA pegándose por saber quién paga la fiesta. Pagos" class="wp-image-2079" style="width:474px;height:auto"/></figure>
 
 
 
@@ -120,7 +120,7 @@ permalink: /rp-news-18-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/IMG_0093.gif" alt="Hueles eso? Huele a pagos" class="wp-image-2080" style="width:346px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/IMG_0093.gif" alt="Hueles eso? Huele a pagos" class="wp-image-2080" style="width:346px;height:auto"/></figure>
 
 
 
@@ -148,7 +148,7 @@ permalink: /rp-news-18-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/IMG_0094.gif" alt="Soltando billetes" class="wp-image-2081" style="width:384px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/IMG_0094.gif" alt="Soltando billetes" class="wp-image-2081" style="width:384px;height:auto"/></figure>
 
 
 
@@ -176,7 +176,7 @@ permalink: /rp-news-18-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/IMG_0096.jpeg" alt="Hueles dinero? Allá voy" class="wp-image-2082" style="width:442px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/IMG_0096.jpeg" alt="Hueles dinero? Allá voy" class="wp-image-2082" style="width:442px;height:auto"/></figure>
 
 
 
@@ -228,7 +228,7 @@ permalink: /rp-news-18-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/WORLDLINE-MEME.png" alt="Worldline y los pagos" class="wp-image-2084" style="width:312px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/WORLDLINE-MEME.png" alt="Worldline y los pagos" class="wp-image-2084" style="width:312px;height:auto"/></figure>
 
 
 
@@ -280,7 +280,7 @@ permalink: /rp-news-18-aug-25-pagos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Imagen-GIF.gif" alt="Cerramos los pagos" class="wp-image-2085" style="width:272px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Imagen-GIF.gif" alt="Cerramos los pagos" class="wp-image-2085" style="width:272px;height:auto"/></figure>
 
 
 

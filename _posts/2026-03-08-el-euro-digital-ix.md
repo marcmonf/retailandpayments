@@ -64,7 +64,7 @@ permalink: /el-euro-digital-ix/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Worldline.png" alt="worldline y el euro digital" class="wp-image-2670" style="width:492px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Worldline.png" alt="worldline y el euro digital" class="wp-image-2670" style="width:492px;height:auto"/></figure>
 
 
 
@@ -92,7 +92,7 @@ permalink: /el-euro-digital-ix/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Nexi_Logo.png" alt="nexi y el euro digital" class="wp-image-2672" style="width:327px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Nexi_Logo.png" alt="nexi y el euro digital" class="wp-image-2672" style="width:327px;height:auto"/></figure>
 
 
 
@@ -112,7 +112,7 @@ permalink: /el-euro-digital-ix/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/EPI_Logo_Lockup_primary_RGB.png" alt="epi european payments initiative" class="wp-image-2673" style="aspect-ratio:2.66151789692559;width:424px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/EPI_Logo_Lockup_primary_RGB.png" alt="epi european payments initiative" class="wp-image-2673" style="aspect-ratio:2.66151789692559;width:424px;height:auto"/></figure>
 
 
 
@@ -140,7 +140,7 @@ permalink: /el-euro-digital-ix/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/iphotoklick-metro-4608856_1280.jpg" alt="el euro digital y el banco de españa" class="wp-image-2668" style="width:544px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/iphotoklick-metro-4608856_1280.jpg" alt="el euro digital y el banco de españa" class="wp-image-2668" style="width:544px;height:auto"/></figure>
 
 
 
@@ -172,7 +172,7 @@ permalink: /el-euro-digital-ix/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/pignatta-la-defense-6571842_1280.jpg" alt="la defense paris" class="wp-image-2675" style="width:604px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/pignatta-la-defense-6571842_1280.jpg" alt="la defense paris" class="wp-image-2675" style="width:604px;height:auto"/></figure>
 
 
 
@@ -204,7 +204,7 @@ permalink: /el-euro-digital-ix/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/athree23-board-4874765_1280.jpg" alt="riesgos de el euro digital" class="wp-image-2677" style="aspect-ratio:1.5005861664712778;width:675px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/athree23-board-4874765_1280.jpg" alt="riesgos de el euro digital" class="wp-image-2677" style="aspect-ratio:1.5005861664712778;width:675px;height:auto"/></figure>
 
 
 

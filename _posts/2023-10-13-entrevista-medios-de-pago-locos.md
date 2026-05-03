@@ -36,7 +36,7 @@ permalink: /entrevista-medios-de-pago-locos/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Logo-Locos_V_Neg@1000x-8-768x968-1.png" alt="Entrevista de medios de pago. Locos de Wall Street" class="wp-image-1575" style="aspect-ratio:0.7933884297520661;width:186px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Logo-Locos_V_Neg@1000x-8-768x968-1.png" alt="Entrevista de medios de pago. Locos de Wall Street" class="wp-image-1575" style="aspect-ratio:0.7933884297520661;width:186px;height:auto"/></figure>
 
 
 

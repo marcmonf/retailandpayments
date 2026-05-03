@@ -24,7 +24,7 @@ permalink: /backups-caida-de-redsys-del-18-11/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/street-sign-141396_1920.jpg" alt="Caída de Redsys 18 noviembre. Alternativas. Backups" class="wp-image-1682" style="width:444px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/street-sign-141396_1920.jpg" alt="Caída de Redsys 18 noviembre. Alternativas. Backups" class="wp-image-1682" style="width:444px;height:auto"/></figure>
 
 
 
@@ -76,7 +76,7 @@ permalink: /backups-caida-de-redsys-del-18-11/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Logo-Redsys.jpg" alt="" class="wp-image-1679" style="width:343px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Logo-Redsys.jpg" alt="" class="wp-image-1679" style="width:343px;height:auto"/></figure>
 
 
 
@@ -122,7 +122,7 @@ permalink: /backups-caida-de-redsys-del-18-11/
 
 
 
-<figure class="wp-block-image size-full"><img src="/retailandpayments/assets/img/Diagrama-Pagos-Locales.png" alt="Ciclo de un pago. " class="wp-image-1262"/></figure>
+<figure class="wp-block-image size-full"><img src="/assets/img/Diagrama-Pagos-Locales.png" alt="Ciclo de un pago. " class="wp-image-1262"/></figure>
 
 
 
@@ -186,7 +186,7 @@ permalink: /backups-caida-de-redsys-del-18-11/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Terminal-Gateway-Adquirente.png" alt="Modo offline del terminal de pago. Caída de redsys 18 de noviembre" class="wp-image-1673" style="width:508px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Terminal-Gateway-Adquirente.png" alt="Modo offline del terminal de pago. Caída de redsys 18 de noviembre" class="wp-image-1673" style="width:508px;height:auto"/></figure>
 
 
 
@@ -222,7 +222,7 @@ permalink: /backups-caida-de-redsys-del-18-11/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/Move5000.png" alt="terminal de pago de movilidad. Backup de movilidad ante caída de redsys 18 de noviembre" class="wp-image-1674" style="width:301px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/Move5000.png" alt="terminal de pago de movilidad. Backup de movilidad ante caída de redsys 18 de noviembre" class="wp-image-1674" style="width:301px;height:auto"/></figure>
 
 
 
@@ -266,7 +266,7 @@ permalink: /backups-caida-de-redsys-del-18-11/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Terminal-Gateway-Adquirente-1-y-2.png" alt="caída de redsys del 18. Adquirente backup fallback acquiring" class="wp-image-1677" style="width:634px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Terminal-Gateway-Adquirente-1-y-2.png" alt="caída de redsys del 18. Adquirente backup fallback acquiring" class="wp-image-1677" style="width:634px;height:auto"/></figure>
 
 
 

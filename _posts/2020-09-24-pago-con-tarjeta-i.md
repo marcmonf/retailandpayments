@@ -12,7 +12,7 @@ permalink: /pago-con-tarjeta-i/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/undraw_credit_card_payment_12va.png" alt="" class="wp-image-647" width="260" height="199"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/undraw_credit_card_payment_12va.png" alt="" class="wp-image-647" width="260" height="199"/></figure>
 
 
 
@@ -96,7 +96,7 @@ permalink: /pago-con-tarjeta-i/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/undraw_business_shop_qw5t.png" alt="" class="wp-image-644" width="323" height="260"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/undraw_business_shop_qw5t.png" alt="" class="wp-image-644" width="323" height="260"/></figure>
 
 
 
@@ -108,7 +108,7 @@ permalink: /pago-con-tarjeta-i/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/credit-2257536.png" alt="" class="wp-image-646" width="325" height="253"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/credit-2257536.png" alt="" class="wp-image-646" width="325" height="253"/></figure>
 
 
 
@@ -120,7 +120,7 @@ permalink: /pago-con-tarjeta-i/
 
 
 
-<figure class="wp-block-image size-large"><img src="/retailandpayments/assets/img/plataformas-de-pago-1.png" alt="" class="wp-image-652"/></figure>
+<figure class="wp-block-image size-large"><img src="/assets/img/plataformas-de-pago-1.png" alt="" class="wp-image-652"/></figure>
 
 
 

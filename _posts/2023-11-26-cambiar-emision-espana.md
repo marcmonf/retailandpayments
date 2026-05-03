@@ -76,7 +76,7 @@ permalink: /cambiar-emision-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/IMG_0028.png" alt="Cambiar la emisión en España. Tarjetas de crédito " class="wp-image-1697" style="width:245px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/IMG_0028.png" alt="Cambiar la emisión en España. Tarjetas de crédito " class="wp-image-1697" style="width:245px;height:auto"/></figure>
 
 
 
@@ -144,7 +144,7 @@ permalink: /cambiar-emision-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Four-Party-Scheme.png" alt="Como cambiar la emisión en España. Esquema de 4 patas o four party scheme" class="wp-image-1703" style="width:698px;height:auto"/><figcaption class="wp-element-caption">Fuente: elaboración propia</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Four-Party-Scheme.png" alt="Como cambiar la emisión en España. Esquema de 4 patas o four party scheme" class="wp-image-1703" style="width:698px;height:auto"/><figcaption class="wp-element-caption">Fuente: elaboración propia</figcaption></figure>
 
 
 
@@ -160,7 +160,7 @@ permalink: /cambiar-emision-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/Three-Party-Scheme.png" alt="Como cambiar la emisión en España. Esquema de 3 patas o three party scheme" class="wp-image-1704" style="width:692px;height:auto"/><figcaption class="wp-element-caption">Fuente: elaboración propia</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/Three-Party-Scheme.png" alt="Como cambiar la emisión en España. Esquema de 3 patas o three party scheme" class="wp-image-1704" style="width:692px;height:auto"/><figcaption class="wp-element-caption">Fuente: elaboración propia</figcaption></figure>
 
 
 
@@ -196,7 +196,7 @@ permalink: /cambiar-emision-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/metro-4608856.jpg" alt="Banco de España. Cambiar la emisión en España" class="wp-image-1698" style="width:541px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/metro-4608856.jpg" alt="Banco de España. Cambiar la emisión en España" class="wp-image-1698" style="width:541px;height:auto"/></figure>
 
 
 
@@ -228,7 +228,7 @@ permalink: /cambiar-emision-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/payment-terminal-6655731.jpg" alt="Terminal Ingenico iPP350. Cambiar la emisión en España" class="wp-image-1699" style="width:190px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/payment-terminal-6655731.jpg" alt="Terminal Ingenico iPP350. Cambiar la emisión en España" class="wp-image-1699" style="width:190px;height:auto"/></figure>
 
 
 
@@ -280,7 +280,7 @@ permalink: /cambiar-emision-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/palace-1910258.jpg" alt="España" class="wp-image-1706" style="width:554px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/palace-1910258.jpg" alt="España" class="wp-image-1706" style="width:554px;height:auto"/></figure>
 
 
 
@@ -324,7 +324,7 @@ permalink: /cambiar-emision-espana/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/american-express-89024.jpg" alt="Tarjetas de diferentes esquemas. Cambiar la emisión en España" class="wp-image-683" style="width:483px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/american-express-89024.jpg" alt="Tarjetas de diferentes esquemas. Cambiar la emisión en España" class="wp-image-683" style="width:483px;height:auto"/></figure>
 
 
 

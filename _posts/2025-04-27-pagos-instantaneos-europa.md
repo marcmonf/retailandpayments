@@ -56,7 +56,7 @@ permalink: /pagos-instantaneos-europa/
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/retailandpayments/assets/img/pagos-instantaneos-en-europa.png" alt="infografía acerca de los pagos instantáneos en europa" class="wp-image-1858" style="width:495px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/pagos-instantaneos-en-europa.png" alt="infografía acerca de los pagos instantáneos en europa" class="wp-image-1858" style="width:495px;height:auto"/></figure>
 
 
 
@@ -94,7 +94,7 @@ permalink: /pagos-instantaneos-europa/
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="/retailandpayments/assets/img/bizum.jpg" alt="Bizum lider de pagos instantaneos en europa" class="wp-image-1860" style="width:512px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/assets/img/bizum.jpg" alt="Bizum lider de pagos instantaneos en europa" class="wp-image-1860" style="width:512px;height:auto"/></figure>
 
 
 
@@ -155,7 +155,7 @@ permalink: /pagos-instantaneos-europa/
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img src="/retailandpayments/assets/img/money-3523131_1280-1.jpg" alt="pagos instantaneos en europa" class="wp-image-1864"/></figure>
+<figure class="wp-block-image size-large"><img src="/assets/img/money-3523131_1280-1.jpg" alt="pagos instantaneos en europa" class="wp-image-1864"/></figure>
 </figure>
 
 
@@ -213,7 +213,7 @@ permalink: /pagos-instantaneos-europa/
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img src="/retailandpayments/assets/img/cash-box-6679069_1280.jpg" alt="pagos instantaneos en Europa" class="wp-image-1868"/></figure>
+<figure class="wp-block-image size-large"><img src="/assets/img/cash-box-6679069_1280.jpg" alt="pagos instantaneos en Europa" class="wp-image-1868"/></figure>
 </figure>
 
 
