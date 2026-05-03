@@ -1,7 +1,7 @@
 title: "Retail & Payments"
 description: "Medios de pago que sí entiendes."
-baseurl: "/retailandpayments"
-url: "https://marcmonf.github.io"
+baseurl: ""
+url: "https://retailandpayments.com"
 
 # Configuraciones de motor
 markdown: kramdown
