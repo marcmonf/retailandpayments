@@ -1,0 +1,28 @@
+<div id="cookie-banner" style="display: none; position: fixed; bottom: 20px; left: 20px; right: 20px; background: var(--bg2); border: 1px solid var(--border-accent); padding: 20px; z-index: 9999; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+    <p style="margin: 0; font-size: 13px; color: var(--text-muted); line-height: 1.5;">
+      Utilizamos cookies técnicas necesarias para el funcionamiento del sitio. Al continuar navegando, aceptas nuestra 
+      <a href="{{ '/legal/cookies/' | relative_url }}" style="color: var(--accent); text-decoration: underline;">política de cookies</a>.
+    </p>
+    <button id="accept-cookies" style="background: var(--accent); color: var(--bg); border: none; padding: 10px 20px; font-family: var(--font-head); font-weight: bold; cursor: pointer; text-transform: uppercase; font-size: 11px; letter-spacing: 1px;">
+      Aceptar
+    </button>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const banner = document.getElementById('cookie-banner');
+    const btn = document.getElementById('accept-cookies');
+
+    // Si el usuario no ha aceptado antes, mostramos el banner
+    if (!localStorage.getItem('cookies-accepted')) {
+      banner.style.display = 'block';
+    }
+
+    btn.addEventListener('click', function() {
+      localStorage.setItem('cookies-accepted', 'true');
+      banner.style.display = 'none';
+    });
+  });
+</script>
