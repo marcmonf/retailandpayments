@@ -3,7 +3,7 @@ layout: post
 title: "El Retail Roto (Parte II): Disonancia omnicanal y la trampa de la devolución gratuita"
 date: 2026-05-17 08:00:00 +0000
 categories: ['Estrategia Retail']
-image: "assets/img/reaxionlab-ecommerce-1706103_1280.png"
+image: "assets/img/dhltruck-5739205.jpg"
 permalink: /el-retail-roto-2/
 ---
 
