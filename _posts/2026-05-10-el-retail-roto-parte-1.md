@@ -2,7 +2,7 @@
 layout: post
 title: "El Retail Roto (Parte I): El espejismo técnico y el mapa del desastre"
 date: 2026-05-10 08:00:00 +0000
-categories: ['Retail', 'Complex Problem Solving']
+categories: ['Estrategia Retail',]
 image: "assets/img/shopping-587133.jpg"
 permalink: /el-retail-roto-1/
 ---
