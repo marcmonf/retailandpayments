@@ -38,7 +38,7 @@ permalink: /el-retail-roto-3/
 
 <h2 class="wp-block-heading">II.3 — La Muerte del Tercer Espacio: el problema de medir con la regla equivocada</h2>
 
-<p><img src="assets/img/central-embassy-498554.jpg" alt="Interior de espacio retail" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
+<p><img src="/assets/img/central-embassy-498554.jpg" alt="Interior de espacio retail" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
 
 <p>La narrativa dominante dice que el retail físico está muriendo por culpa de Amazon. Es una narrativa cómoda porque convierte un problema interno en un problema externo, y eso siempre es más fácil de aceptar. Pero es incompleta.</p>
 
@@ -48,7 +48,7 @@ permalink: /el-retail-roto-3/
 
 <p>El agua siempre fluye por el camino que menos resistencia presenta, y señalar al gigantón de color ocre (a día de hoy) es más sencillo que buscar las causas por las cuales el motor no carbura.</p>
 
-<p><img src="assets/img/department-store-265135.jpg" alt="Department store" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
+<p><img src="/assets/img/department-store-265135.jpg" alt="Department store" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
 
 <p>Siguiendo con el tema de los KPIs, ventas por metro cuadrado. El llamado Like4Like. Tasa de conversión de tráfico. Ticket medio. Son métricas perfectamente válidas para un espacio transaccional. El problema es que el espacio transaccional puro ya lo gana Amazon por goleada, y el retail físico no puede competir en ese terreno.</p>
 
@@ -66,7 +66,7 @@ permalink: /el-retail-roto-3/
 
 <p>A todos nos pueden preguntar en la calle qué pensaríamos si tal o cual cosa. En tal caso, nos imaginamos qué haríamos en tal situación, pero la realidad a veces es bastante distinta. Hasta que no estás ahí, vas sin tiempo a la tienda, vas directo al grano a por esa camiseta que te hace falta o similar, no puedes responder de manera correcta a esa pregunta.</p>
 
-<p><img src="assets/img/tshirt-2429016.jpg" alt="Camisetas en tienda" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
+<p><img src="/assets/img/tshirt-2429016.jpg" alt="Camisetas en tienda" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
 
 <p>Pero sí es cierto que ahí está el obstáculo real: si el KPI sigue siendo ventas por metro cuadrado, ningún director de tienda va a justificar la inversión en un espacio de comunidad que no convierte directamente. El problema no es de concepto. Es de métrica. Cambiar la métrica es cambiar lo que se puede gestionar, y cambiar lo que se gestiona es cambiar el negocio.</p>
 
@@ -88,7 +88,7 @@ permalink: /el-retail-roto-3/
 
 <p>Nadie dice de pequeño que quiere ser dependiente de tienda. El puesto no tiene relato, carece de itinerario, no tiene identidad profesional reconocida. Y sin identidad, no hay carrera; sin carrera, no hay retención; sin retención, no hay acumulación de conocimiento; sin conocimiento acumulado, la experiencia de cliente se degrada en cada rotación.</p>
 
-<p><img src="assets/img/woman-4335235.jpg" alt="Mujer en entorno retail" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
+<p><img src="/assets/img/woman-4335235.jpg" alt="Mujer en entorno retail" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
 
 <p>Es un círculo vicioso perfectamente cerrado, y la respuesta habitual —subir el salario mínimo, mejorar los horarios— no rompe el círculo. Lo amortigua, temporalmente. La raíz del problema es que el sector no ha construido el relato del oficio. El problema del talento en retail no es de condiciones laborales. Es de identidad profesional. Y la identidad no se compra con una subida de sueldo.</p>
 
@@ -118,7 +118,7 @@ permalink: /el-retail-roto-3/
 
 <p>Con el cliente se rompió la vieja idea de dar "precio, variedad y conveniencia". Ahí manda Amazon. El nuevo pacto pide a gritos algo que tenga que ver más con dar pertenencia, contexto y experiencia social pura.</p>
 
-<p><img src="assets/img/city-3577655.jpg" alt="Entorno de ciudad" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
+<p><img src="/assets/img/city-3577655.jpg" alt="Entorno de ciudad" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
 
 <p>Con el empleado el pacto de "te doy un trabajo" ya no funciona. Se queda cortísimo para cualquiera con alternativas o que busque un mínimo de propósito laboral. El nuevo contrato exige dar un oficio, un relato y una carrera de verdad. Aunque admito que esto es un dolor de cabeza cuando tu marca es pequeña o estás arrancando.</p>
 
@@ -148,7 +148,7 @@ permalink: /el-retail-roto-3/
 
 <p><strong>2. El ciclo cerrado como modelo de negocio:</strong> Aquí voy a intentar ser contundente: haz que la devolución forme parte del proceso de compra. Economía circular, suscripciones, haz al cliente partícipe y dale incentivos: que participe de la venta de lo que devuelve, por ejemplo.</p>
 
-<p><img src="assets/img/shops-5992277.jpg" alt="Tiendas comerciales" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
+<p><img src="/assets/img/shops-5992277.jpg" alt="Tiendas comerciales" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
 
 <p><strong>3. Métricas de experiencia, no de transacción:</strong> Ya lo he dicho: el KPI antiguo mide cosas antiguas. El mundo moderno no sigue las métricas antiguas. Hay que mejorar esto con nuevas cosas a medir: NPS post-visita, cuánto tiempo permanecen nuestros clientes comprando en la tienda, cuánta gente viene referida, etc. ¿Que son difíciles de medir? Claro, pero si querías algo sencillo... Busquemos la forma correcta de medir todo este tipo de cosas.</p>
 
