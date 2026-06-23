@@ -36,7 +36,7 @@ permalink: /el-retail-roto-3/
 
 
 
-<h2 class="wp-block-heading">II.3 — La Muerte del Tercer Espacio: el problema de medir con la regla equivocada</h2>
+<h2 class="wp-block-heading">La Muerte del Tercer Espacio: el problema de medir con la regla equivocada</h2>
 
 <p><img src="/assets/img/central-embassy-498554.jpg" alt="Interior de espacio retail" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;"></p>
 
@@ -78,7 +78,7 @@ permalink: /el-retail-roto-3/
 
 
 
-<h2 class="wp-block-heading">II.4 — La Crisis del Talento: el problema de la identidad sin relato</h2>
+<h2 class="wp-block-heading">La Crisis del Talento: el problema de la identidad sin relato</h2>
 
 
 
@@ -108,7 +108,7 @@ permalink: /el-retail-roto-3/
 
 
 
-<h2 class="wp-block-heading">Parte III — El diagnóstico unificado: El triple contrato social roto</h2>
+<h2 class="wp-block-heading">El diagnóstico unificado: El triple contrato social roto</h2>
 
 
 
@@ -136,7 +136,7 @@ permalink: /el-retail-roto-3/
 
 
 
-<h2 class="wp-block-heading">Parte IV — Soluciones no obvias: Pensar en sistema, no en síntomas</h2>
+<h2 class="wp-block-heading">Soluciones no obvias: Pensar en sistema, no en síntomas</h2>
 
 
 
