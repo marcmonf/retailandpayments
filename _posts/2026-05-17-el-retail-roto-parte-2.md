@@ -49,7 +49,7 @@ permalink: /el-retail-roto-2/
 
 <p>¿Es un saboteador? No. Y ojo, que esto lo he leído por ahí y me niego a pensar que en el día a día de los empleados españoles sea algo generalizado. Pero si rascas un poco, te encuentras con un agente perfectamente racional atrapado en un sistema de incentivos que lo castiga cada vez que gana el canal digital. Su comisión, la de quien la tiene, depende de las ventas físicas. El ecommerce, visto desde su caja registradora, no es un canal más. Es la competencia. Y encima con ventaja, porque no tiene que fichar.</p>
 
-<p>Aquí es donde tiro de una herramienta del CPS que me gusta especialmente para estos casos: los 5 porqués, el método que usaba Toyota para no quedarse en el síntoma. ¿Por qué el empleado frena la omnicanalidad? Porque no le compensa ayudarla. ¿Por qué no le compensa? Porque su incentivo está atado al canal físico. ¿Por qué está atado al canal físico? Porque cuando se diseñó ese sistema de comisiones, el ecommerce ni pintaba en el mapa. ¿Por qué nadie lo ha cambiado desde entonces? Porque tocar la estructura de comisión de una red comercial completa da un vértigo tremendo. Y ahí, en esa última respuesta, está la raíz de verdad: esto no va de actitud del empleado, va de quién se atreve a rediseñar cómo se paga a la gente.</p>
+<p>Aquí me pongo a preguntar por qué, que es un vicio que tengo desde hace tiempo y que en el CPS tiene hasta nombre: los 5 porqués, el truco que usaba Toyota en la fábrica para no quedarse en la superficie del problema. Va: ¿por qué el empleado frena la omnicanalidad? Porque no le compensa ayudarla. Vale, ¿y por qué no le compensa? Porque su incentivo sigue atado al canal físico, end of story. Ahora la buena: ¿por qué sigue atado al canal físico si todo el mundo sabe que eso genera el problema? Porque cuando se diseñó ese sistema de comisiones, (si es que al pobre del que hablemos se le ha diseñado el sistema), el ecommerce ni pintaba en el mapa, y nadie se ha molestado en tocarlo desde entonces. Y aquí ya no hace falta preguntar una cuarta vez, la respuesta se ve sola: tocar la estructura de comisión de una red comercial completa da un vértigo tremendo, y ese vértigo, no la tecnología, es la raíz de verdad. Esto no va de actitud del empleado. Va de quién se atreve a rediseñar cómo se paga a la gente. ME-LO-NA-CO.</p>
 
 <p>Richard Rummelt lo deja clarísimo en Good Strategy Bad Strategy: "la estrategia empieza por identificar el obstáculo crítico, no por listar objetivos." Aplicado aquí: el obstáculo nunca fue la tecnología. Es la arquitectura de compensación, que pone al empleado en guerra silenciosa contra el cliente que decide comprar por otro sitio.</p>
 
@@ -57,7 +57,7 @@ permalink: /el-retail-roto-2/
   <img src="/assets/img/online-2900303.jpg" alt="Comprando en amazon mediante smartphone" style="width:560px;height:auto"/>
 </figure>
 
-<p>El omnichannel no fracasa por falta de sistemas. Fracasa porque los humanos que tienen que hacerlo funcionar tienen motivos de sobra para que no funcione. Y contra eso no hay campaña de "cultura omnicanal" ni power point motivacional en la sala de descanso que valga.</p>
+<p>Aquí nadie tiene un problema de sistemas. Tienen motivos de sobra, y muy racionales, para que el omnichannel no funcione, que no es lo mismo. Mi tesis es que ellos no lo saben. Y contra eso no hay campaña de "cultura omnicanal" ni power point motivacional en la sala de descanso que valga.</p>
 
 <p>La solución, encima, es aburrida. Rediseñar el incentivo. Que el empleado cobre por lo que se vende en su zona, venga por donde venga. Que el cliente sea el centro de la compensación, no la caja registradora.</p>
 
@@ -89,15 +89,13 @@ permalink: /el-retail-roto-2/
 
 <p>El mercado de recomercio crece al 9,4% anual. Los retailers que entiendan antes que la economía circular no es sostenibilidad de cara a la galería, sino un modelo de negocio de verdad, van a tener ventaja. ¿Acuerdos de devolución directos con este tipo de jugadores? Ahí lo dejo.</p>
 
-<p>Y ya que estamos, va, unos cuantos experimentos safe-to-fail para quien quiera probar esto sin jugarse la camisa. Nada de planazos a tres años, cosas que se pueden montar en un trimestre y medir de verdad:</p>
+<p>Y ya que estamos, va, un par de ideas para quien quiera probar esto sin jugarse la camisa. Nada de planazos a tres años, cosas que se pueden montar en un trimestre y medir de verdad. La primera que se me ocurre: dar un pequeño incentivo, puntos, descuento, whatever, my friend, al cliente que acepte que su devolución se revenda directamente como producto de segunda mano en vez de volver al almacén. Se prueba en una sola categoría, la que más devoluciones tenga, y se mide qué pasa con el coste real. Si sale bien, se celebra. Si no, se aprende y ya está. Y de paso, si quieres ponerle salsa de marketing, negocias un acuerdo piloto con una plataforma de recomercio, tipo Vinted, para que esas devoluciones vayan directas ahí —tres meses, una categoría, comparas coste contra el modelo actual, y encima queda bien decir que MIEMPRESOTEMOLÓN y SUPERCHICDELALECHE han llegado a un acuerdo, bla bla bla.</p>
 
-<p>Ofrecer un pequeño incentivo (puntos, descuento, whatever, my friend) al cliente que acepte que su devolución se revenda directamente como producto de segunda mano en vez de volver al almacén. Probarlo en una sola categoría, la que más devoluciones tenga, y ver qué pasa con el coste real por devolución. Pruebas y, si sale bien, lo celebras. Si no, aprendes.</p>
+<p>La otra idea me gusta menos, o mejor dicho, me da más miedo proponerla: medir, aunque sea internamente y sin publicarlo, cuánto cuesta el bracketing por cliente, y probar a limitar, no eliminar, limitar, el número de tallas devolvibles gratis por pedido. Va a doler. Pero mejor saberlo con datos que seguir a ciegas. Este es más delicatto, y el amigo mercato puede que no lo recoja de modo friendly.</p>
 
-<p>Otra: negociar un acuerdo piloto con una plataforma de recomercio, tipo Vinted, para que las devoluciones de ciertas prendas vayan directas ahí en vez de al almacén propio. Tres meses, una categoría, y comparar coste contra el modelo actual. De esta manera usas cositas que pueden tener tirón incluso en marketing, ya que mola mucho lo de decir, MIEMPRESOTEMOLÓN y la plataforma SUPERCHICDELALECHE han llegado a un acuerdo bla bla bka.</p>
+<p>Ninguna de estas ideas resuelve el problema entero, y si me leéis desde hace tiempo ya sabéis que aquí no prometo soluciones cerradas. Prometo hipótesis que se pueden probar sin jugarse la empresa entera en el intento.</p>
 
-<p>Y la tercera, la más incómoda: medir, aunque sea internamente y sin publicarlo, cuánto le cuesta a la empresa el bracketing por cliente, y probar a limitar (no eliminar, limitar) el número de tallas devolvibles gratis por pedido. Va a doler. Pero mejor saberlo con datos que seguir a ciegas. Este es más delicatto, y el amigo mercato puede que no lo recoja de modo friendly.</p>
-
-<p>Ninguno de estos tres resuelve el problema entero. Eso ya lo sabéis si me leéis desde hace tiempo: aquí no prometo soluciones cerradas, prometo hipótesis que se pueden probar sin jugarse la empresa entera en el intento.</p>
+<p>Voy cerrando que me llaman para comer.</p>
 
 <p>En el próximo artículo cerramos la serie analizando la muerte del espacio físico, la crisis de identidad del talento y las soluciones sistémicas. Nos vemos abajo.</p>
 
