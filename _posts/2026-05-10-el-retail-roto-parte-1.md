@@ -98,7 +98,7 @@ permalink: /el-retail-roto-1/
 
 <p>Los actores son más de los que parece. No es solo "la empresa y el cliente". Está el empleado de tienda, que tiene sus propios incentivos (ya hablaremos). Está el proveedor logístico, que cobra por mover caja, no por resolver problemas. Está el departamento financiero, que mide el mundo en trimestres. Y está el consultor de turno —a veces yo mismo, con perdón— que llega con una diapositiva y una solución que funcionó en otro sitio. Cada uno tira de su cuerda. Nadie está mirando el conjunto.</p>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/tshirt-2429016.jpg" alt="La trampa de las devoluciones gratuitas en ecommerce" style="width:560px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/tshirt-2429016.jpg" alt="Los procesos de Retail están llenos de problemas complejos" style="width:560px;height:auto"/></figure>
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 
 <p>La transformación que se busca, aquí es donde más falla el retail. Porque casi nadie dice de verdad qué quiere transformar. Se dice "digitalizar", que no es una transformación, es una palabra que queda bien en un comité. La transformación de verdad sería pasar de vender cosas a resolver la vida de alguien. Eso sí es transformar algo. Lo otro es maquillaje con presupuesto.</p>
