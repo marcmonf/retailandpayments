@@ -88,72 +88,28 @@ permalink: /el-retail-roto-1/
 
 
 
-<h2 class="wp-block-heading">II.1 — La Disonancia Omnicanal: el enemigo está dentro</h2>
+<h2 class="wp-block-heading">Antes de trocear el bicho, hay que verlo entero</h2>
 
+<p>Vale, voy a hacer una cosa rara. Antes de meterme en el detalle de cada síntoma —eso lo dejo para las próximas entregas, paciencia— quiero parar un segundo y mirar el bicho completo. Porque si empiezo por las patas, me la voy a liar. Y este bicho tiene muchas patas.</p>
 
+<p>Hay una herramienta del CPS que se llama CATWOE, que suena a marca de detergente pero que en realidad es de las más útiles que existen para esto. Sirve para preguntarte, antes de meter mano a un sistema complejo, seis cosas muy tontas que casi nadie se para a preguntar: quién es el cliente de verdad, quiénes son los actores que mueven los hilos, qué transformación se pretende, bajo qué cosmovisión se está mirando el problema, quién manda de verdad, y en qué entorno vive todo esto. Seis preguntas. Ninguna es sofisticada. Todas son incómodas.</p>
 
-<p>El omnichannel es, junto al big data y la transformación digital, una de las grandes promesas incumplidas de la última década en retail. No porque la idea sea equivocada, sino porque se ejecutó como si fuera un problema de software cuando es, en realidad, un problema de poder.</p>
+<p>Vamos con el cliente, que aquí la cosa ya empieza rara. ¿Quién es el cliente del retail hoy? Porque si respondéis "el que compra", os habéis quedado en 2010. El cliente de hoy compra en la app, devuelve en tienda, pregunta por WhatsApp, decide por Instagram y paga con lo que le dé la gana. Es una persona que atraviesa cuatro sistemas distintos como si fueran el mismo, porque para él lo son. El problema es que para la empresa no lo son. Ahí ya tenéis la primera grieta.</p>
 
+<p>Los actores son más de los que parece. No es solo "la empresa y el cliente". Está el empleado de tienda, que tiene sus propios incentivos (ya hablaremos). Está el proveedor logístico, que cobra por mover caja, no por resolver problemas. Está el departamento financiero, que mide el mundo en trimestres. Y está el consultor de turno —a veces yo mismo, con perdón— que llega con una diapositiva y una solución que funcionó en otro sitio. Cada uno tira de su cuerda. Nadie está mirando el conjunto.</p>
 
+<p>La transformación que se busca, aquí es donde más falla el retail. Porque casi nadie dice de verdad qué quiere transformar. Se dice "digitalizar", que no es una transformación, es una palabra que queda bien en un comité. La transformación de verdad sería pasar de vender cosas a resolver la vida de alguien. Eso sí es transformar algo. Lo otro es maquillaje con presupuesto.</p>
 
-<p>El empleado de tienda que no ayuda al cliente a hacer una devolución de un pedido online, o que directamente le desincentiva de comprar por la app, no es un saboteador irracional. Aunque esto lo he leído por ahí, me niego a pensar que en el día a día de los empleados españoles esto sea algo generalizado. Pero es cierto que no deja de ser un agente perfectamente racional atrapado en un sistema de incentivos que lo penaliza por el éxito del canal digital. Su comisión (los que la tienen) depende de las ventas físicas. El ecommerce, desde su perspectiva, no es otro canal: es un competidor que le roba sus clientes.</p>
+<p>La cosmovisión —weltanschauung, para los amigos de las palabras alemanas largas— es la más traicionera de las seis, porque nadie la ve. Es la asunción de fondo que nadie cuestiona. Y la asunción de fondo del retail, durante veinte años, ha sido: "el problema es competir con Amazon". Toda decisión se ha tomado mirando a ese fantasma. El resultado es un sector entero jugando el partido de otro, en el campo de otro, con las reglas de otro.</p>
 
+<p>¿Quién manda de verdad? Aquí toca ser sincero: no siempre manda quien tiene el cargo más alto. A veces manda el KPI. A veces manda el accionista que quiere ver margen este trimestre y le da igual el que viene. A veces, que Dios nos coja confesados, manda el Excel. Y un Excel no tiene visión de sistema, tiene una fila y una columna.</p>
 
+<p>Y el entorno: regulación cambiante, tipos de interés que suben y bajan, una generación entera que ya no quiere lo mismo que quería la anterior. Nada de esto lo controla el retailer. Pero sí controla cómo reacciona a ello. Y llevamos una década reaccionando con la misma caja de herramientas a un entorno que ya no es el mismo.</p>
 
-<p>Richard Rummelt lo articula con precisión en Good Strategy Bad Strategy: "la estrategia empieza por identificar el obstáculo crítico, no por listar objetivos." En la omnicanalidad, el obstáculo crítico no es la integración tecnológica de los sistemas. Es la arquitectura de compensación que pone al empleado en conflicto con el cliente. El omnichannel no fracasa por falta de tecnología. Fracasa porque los humanos que lo tienen que ejecutar tienen incentivos para que fracase.</p>
+<p>Seis preguntas, seis grietas. Y aquí está la clave de todo este análisis: las cuatro conversaciones abiertas que mencionaba antes —omnicanalidad, devoluciones, espacio físico, talento— no son cuatro problemas. Son cuatro sitios distintos por donde se cuela la misma grieta de fondo. Miras el sistema completo con estas seis preguntas y, de repente, deja de sorprenderte que arreglar uno rompa otro.</p>
 
-
-
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/retailgen-9825722.jpg" alt="Disonancia omnicanal e incentivos en tienda" style="width:560px;height:auto"/></figure>
-
-
-
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>La solución no es formación en cultura omnicanal, ni campañas internas de change management. Es rediseño del modelo de incentivos. No soy consciente de si algunas marcas ya están experimentando con compensación agnóstica al canal, es decir, el empleado recibe reconocimiento económico por cualquier venta que ocurra en su área geográfica de responsabilidad, independientemente del canal por el que se materialice. De esta manera, el cliente es el centro de la compensación, no la caja registradora. Es un cambio conceptual pequeño con consecuencias operativas enormes. Y es el tipo de intervención que mi querido Javier Recuenco llamaría "cortar el nudo gordiano": no resolver la complejidad, sino eliminar la condición que la genera.</p>
-
-
-
-<h2 class="wp-block-heading">II.2 — La Trampa de la Devolución Gratuita: la promesa que te come vivo</h2>
-
-
-
-<p>Gestionar una devolución de ecommerce cuesta al retailer entre 20 y 30 dólares de media. Cada una. Incluyendo logística inversa, inspección, reacondicionamiento, almacenaje y, en muchos casos, destrucción del producto porque reintroducirlo al ciclo de venta cuesta más que tirarlo. El sector estima pérdidas superiores a los 100.000 millones de dólares anuales solo en Estados Unidos.</p>
-
-
-
-<p>Hace tiempo escuché esto de lo de la destrucción de los productos o de la reintroducción mediante la venta de cestas de productos devueltos sin verificar. No lo sé a ciencia cierta, pero tiene todo el sentido del mundo: compras una cesta de 20 productos que están listados e identificados, y por todo ello pagas un 30% del valor original. Al retailer le cuesta más reintroducirlo de manera aislada por clasificación de producto, reparación si procede, nuevo packaging y redistribución que directamente venderlo con descuento junto a otros tantos productos en la misma situación.</p>
-
-
-
-<p>¿Cómo llegamos aquí? A través de un mecanismo que Giorgio Nardone describía como "la solución intentada que se convierte en el problema". La devolución gratuita fue una ventaja competitiva legítima que Zappos y Amazon popularizaron hace quince años. Funcionó. Convirtió la política de devolución en un driver de conversión. Y entonces todos la copiaron.</p>
-
-
-
-<p>El resultado es una trampa de Nash perfecta: cada retailer racional mantiene la promesa de devolución gratuita porque sabe que si la elimina unilateralmente, perderá cuota frente a quienes la mantienen. Aunque todos saben que el sistema, tomado en conjunto, es insostenible. Nadie puede salir solo. Y colectivamente, el sector se destruye margen a margen. La devolución gratuita empezó como una ventaja competitiva. Hoy es un impuesto que el sector se autoimpone y que nadie sabe cómo eliminar sin suicidio comercial.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="/assets/img/tshirt-2429016.jpg" alt="La trampa de las devoluciones gratuitas en ecommerce" style="width:560px;height:auto"/></figure>
-
-
-
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Las devoluciones en ecommerce representan ya el 19,3% de las ventas online en 2025 según las últimas estimaciones sectoriales. El modelo del "compra tres, quédate uno" —que la industria llama bracketing y que practica el 63% de los compradores online estadounidenses— ha convertido el proceso de compra en un sistema de prueba gratuita con devolución incluida.</p>
-
-
-
-<p>El pensamiento lateral aquí no pasa por gestionar mejor la logística inversa, sino por rediseñar el ciclo de vida del producto para que la devolución no sea el final del viaje, sino una etapa más. Patagonia con su programa Worn Wear, IKEA con su marketplace de segunda mano, marcas de moda que están experimentando con modelos de suscripción o alquiler: la respuesta correcta no es procesar la devolución más eficientemente. Es diseñar productos y modelos de negocio donde el retorno genere valor en lugar de destruirlo.</p>
-
-
-
-<p>El mercado de recomercio crece al 9,4% anual. Los retailers que antes entiendan que la economía circular no es un argumento de sostenibilidad sino un modelo de negocio tendrán la ventaja. ¿Qué tal acuerdos de devolución directos hacia este tipo de retailers cuyo mercado es el producto usado? Continuará en la próxima entrega.</p>
-
+<p>Vale. Ya tenemos el mapa dibujado: cuatro síntomas, un solo problema de fondo, y una industria que lleva una década gastando presupuesto en curar la fiebre sin preguntarse qué infección la produce.</p>
+<p>En la próxima entrega me meto directamente en los dos primeros pacientes de la lista: el empleado de tienda que, sin ser mala persona ni sabotear nada a propósito, tiene todos los números para preferir que el ecommerce le vaya mal. Y la devolución gratuita, que nació como ventaja competitiva y hoy es el impuesto que el sector entero se autoimpone sin saber cómo quitárselo de encima. Dos síntomas, una misma lógica perversa por debajo. Ahí nos vemos.</p>
 
 
 <p>Gracias por leerme, gracias por tu tiempo.</p>
